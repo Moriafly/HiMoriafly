@@ -1,0 +1,27 @@
+{
+  "name": "moriafly.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vue.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moriafly/Moriafly.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moriafly/Moriafly.github.io/issues"
+  },
+  "homepage": "https://github.com/Moriafly/Moriafly.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.35"
+  }
+}
