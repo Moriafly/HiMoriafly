@@ -1,41 +1,35 @@
 export const data = {
-  "key": "v-53938a5f",
-  "path": "/salt-player/OPEN.html",
-  "title": "开放文档",
+  "key": "v-7174336b",
+  "path": "/moriafly/",
+  "title": "作者介绍",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
     {
       "level": 2,
-      "title": "自定义参数均衡",
-      "slug": "自定义参数均衡",
+      "title": "个人历程",
+      "slug": "个人历程",
       "children": []
     },
     {
       "level": 2,
-      "title": "广播",
-      "slug": "广播",
+      "title": "作者日常之游戏",
+      "slug": "作者日常之游戏",
       "children": []
     },
     {
       "level": 2,
-      "title": "面向开发者等合作",
-      "slug": "面向开发者等合作",
+      "title": "联系方式",
+      "slug": "联系方式",
       "children": []
     }
   ],
   "git": {
-    "updatedTime": 1645086311000,
-    "contributors": [
-      {
-        "name": "Moriafly",
-        "email": "62319450+Moriafly@users.noreply.github.com",
-        "commits": 2
-      }
-    ]
+    "updatedTime": null,
+    "contributors": []
   },
-  "filePathRelative": "salt-player/OPEN.md"
+  "filePathRelative": "moriafly/README.md"
 }
 
 if (import.meta.webpackHot) {

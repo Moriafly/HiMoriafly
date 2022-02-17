@@ -8,7 +8,7 @@
 
 ### Google Play
 
-[访问酷安-椒盐音乐](https://play.google.com/store/apps/details?id=com.salt.music)
+[访问谷歌商店-椒盐音乐](https://play.google.com/store/apps/details?id=com.salt.music)
 
 ### Github release
 

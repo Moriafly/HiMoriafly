@@ -4,6 +4,10 @@ export const themeData = {
     {
       "text": "椒盐音乐",
       "link": "/salt-player/"
+    },
+    {
+      "text": "作者介绍",
+      "link": "/moriafly/"
     }
   ],
   "sidebar": {
@@ -18,12 +22,11 @@ export const themeData = {
         ]
       }
     ],
-    "/reference/": [
+    "/moriafly/": [
       {
-        "text": "Reference",
+        "text": "作者介绍",
         "children": [
-          "/reference/cli.md",
-          "/reference/config.md"
+          "/moriafly/README.md"
         ]
       }
     ]

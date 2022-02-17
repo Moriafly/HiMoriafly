@@ -19,6 +19,10 @@ export default defineUserConfig<DefaultThemeOptions>({
               text: '椒盐音乐',
               link: '/salt-player/',
             },
+            {
+                text: '作者介绍',
+                link: '/moriafly/',
+            }
             // NavbarGroup
             // {
             //   text: 'Group',
@@ -42,10 +46,12 @@ export default defineUserConfig<DefaultThemeOptions>({
                     ],
                 },
             ],
-            '/reference/': [
+            '/moriafly/': [
                 {
-                    text: 'Reference',
-                    children: ['/reference/cli.md', '/reference/config.md'],
+                    text: '作者介绍',
+                    children: [
+                        '/moriafly/README.md', 
+                    ],
                 },
             ],
         },
