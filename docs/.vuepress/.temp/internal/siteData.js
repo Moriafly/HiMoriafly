@@ -1,5 +1,5 @@
 export const siteData = {
-  "base": "/",
+  "base": "/HiMoriafly/",
   "lang": "en-US",
   "title": "Hi, Moriafly",
   "description": "不要糖醋放椒盐 🕊️🐯🍨",

@@ -3,6 +3,10 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/index.html.vue")),
+  // path: /salt-player/download.html
+  "v-65b5623e": defineAsyncComponent(() => import(/* webpackChunkName: "v-65b5623e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/download.html.vue")),
+  // path: /salt-player/help.html
+  "v-c65a4870": defineAsyncComponent(() => import(/* webpackChunkName: "v-c65a4870" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/help.html.vue")),
   // path: /salt-player/OPEN.html
   "v-53938a5f": defineAsyncComponent(() => import(/* webpackChunkName: "v-53938a5f" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/OPEN.html.vue")),
   // path: /salt-player/

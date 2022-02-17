@@ -35,7 +35,9 @@ export default defineUserConfig<DefaultThemeOptions>({
                 {
                     text: '椒盐音乐',
                     children: [
-                        '/salt-player/README.md', 
+                        '/salt-player/README.md',
+                        '/salt-player/download.md',
+                        '/salt-player/help.md',
                         '/salt-player/OPEN.md'
                     ],
                 },

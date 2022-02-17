@@ -5,8 +5,36 @@ export const data = {
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [],
-  "git": {},
+  "headers": [
+    {
+      "level": 2,
+      "title": "自定义参数均衡",
+      "slug": "自定义参数均衡",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "广播",
+      "slug": "广播",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "面向开发者等合作",
+      "slug": "面向开发者等合作",
+      "children": []
+    }
+  ],
+  "git": {
+    "updatedTime": 1645081832000,
+    "contributors": [
+      {
+        "name": "Moriafly",
+        "email": "62319450+Moriafly@users.noreply.github.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "salt-player/OPEN.md"
 }
 
