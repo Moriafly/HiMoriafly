@@ -1,6 +1,8 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /moriafly/history.html
+  "v-36d883b0": () => import(/* webpackChunkName: "v-36d883b0" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/history.html.js").then(({ data }) => data),
   // path: /moriafly/
   "v-7174336b": () => import(/* webpackChunkName: "v-7174336b" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/index.html.js").then(({ data }) => data),
   // path: /salt-player/download.html

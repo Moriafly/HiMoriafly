@@ -50,10 +50,16 @@ export default defineUserConfig<DefaultThemeOptions>({
                 {
                     text: '作者介绍',
                     children: [
-                        '/moriafly/README.md', 
+                        '/moriafly/README.md',
+                        '/moriafly/history.md'
                     ],
                 },
             ],
         },
     },
+    // plugins: [
+    //     ['@vuepress/search', {
+    //       searchMaxSuggestions: 10
+    //     }]
+    //   ]
 })

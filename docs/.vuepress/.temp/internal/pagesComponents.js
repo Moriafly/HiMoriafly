@@ -3,6 +3,8 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/index.html.vue")),
+  // path: /moriafly/history.html
+  "v-36d883b0": defineAsyncComponent(() => import(/* webpackChunkName: "v-36d883b0" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/history.html.vue")),
   // path: /moriafly/
   "v-7174336b": defineAsyncComponent(() => import(/* webpackChunkName: "v-7174336b" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/index.html.vue")),
   // path: /salt-player/download.html
