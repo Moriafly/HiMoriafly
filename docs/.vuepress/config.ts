@@ -42,7 +42,9 @@ export default defineUserConfig<DefaultThemeOptions>({
                         '/salt-player/README.md',
                         '/salt-player/download.md',
                         '/salt-player/help.md',
-                        '/salt-player/OPEN.md'
+                        '/salt-player/pro.md',
+                        '/salt-player/OPEN.md',
+                        '/salt-player/open_source.md'
                     ],
                 },
             ],
