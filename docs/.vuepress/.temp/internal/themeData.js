@@ -18,7 +18,10 @@ export const themeData = {
           "/salt-player/README.md",
           "/salt-player/download.md",
           "/salt-player/help.md",
-          "/salt-player/OPEN.md"
+          "/salt-player/lyrics.md",
+          "/salt-player/pro.md",
+          "/salt-player/OPEN.md",
+          "/salt-player/open_source.md"
         ]
       }
     ],

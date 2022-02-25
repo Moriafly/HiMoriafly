@@ -1,29 +1,22 @@
 export const data = {
-  "key": "v-65b5623e",
-  "path": "/salt-player/download.html",
-  "title": "下载",
+  "key": "v-6f09a8ce",
+  "path": "/salt-player/open_source.html",
+  "title": "开源部分",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [
-    {
-      "level": 2,
-      "title": "下载说明",
-      "slug": "下载说明",
-      "children": []
-    }
-  ],
+  "headers": [],
   "git": {
-    "updatedTime": 1645102119000,
+    "updatedTime": 1645601422000,
     "contributors": [
       {
         "name": "Moriafly",
-        "email": "62319450+Moriafly@users.noreply.github.com",
+        "email": "moriafly@163.com",
         "commits": 2
       }
     ]
   },
-  "filePathRelative": "salt-player/download.md"
+  "filePathRelative": "salt-player/open_source.md"
 }
 
 if (import.meta.webpackHot) {

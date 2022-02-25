@@ -1,35 +1,42 @@
 export const data = {
-  "key": "v-665df470",
-  "path": "/salt-player/",
-  "title": "介绍",
+  "key": "v-db709288",
+  "path": "/salt-player/pro.html",
+  "title": "椒盐音乐 Pro",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
     {
       "level": 2,
-      "title": "基本信息",
-      "slug": "基本信息",
+      "title": "关于付费",
+      "slug": "关于付费",
       "children": []
     },
     {
       "level": 2,
-      "title": "为什么选择它",
-      "slug": "为什么选择它",
-      "children": []
+      "title": "解惑",
+      "slug": "解惑",
+      "children": [
+        {
+          "level": 3,
+          "title": "为什么不推出账号系统？",
+          "slug": "为什么不推出账号系统",
+          "children": []
+        }
+      ]
     }
   ],
   "git": {
-    "updatedTime": 1645086311000,
+    "updatedTime": 1645601422000,
     "contributors": [
       {
         "name": "Moriafly",
-        "email": "62319450+Moriafly@users.noreply.github.com",
-        "commits": 3
+        "email": "moriafly@163.com",
+        "commits": 2
       }
     ]
   },
-  "filePathRelative": "salt-player/README.md"
+  "filePathRelative": "salt-player/pro.md"
 }
 
 if (import.meta.webpackHot) {

@@ -19,17 +19,27 @@ footer: Copyright © 2020-2022 Moriafly
 
 ---
 
-#### 产品
+##### 软件产品
 
-### [椒盐音乐](/HiMoriafly/salt-player/)
+### [**椒盐音乐**](/HiMoriafly/salt-player/)
 
-### [Dso Music](https://github.com/Moriafly/DsoMusic)
+[点击查看有关椒盐音乐的详细介绍、帮助、服务等等](/HiMoriafly/salt-player/)
+
+[![Release Version](https://img.shields.io/github/v/release/Moriafly/SaltPlayerSource)](https://github.com/Moriafly/SaltPlayerSource/releases/latest)
+[![GitHub stars](https://img.shields.io/github/stars/Moriafly/SaltPlayerSource)](https://github.com/Moriafly/SaltPlayerSource/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Moriafly/SaltPlayerSource)](https://github.com/Moriafly/SaltPlayerSource/issues)
+
+---
+
+### [**Dso Music**](https://github.com/Moriafly/DsoMusic)
+
+[![GitHub stars](https://img.shields.io/github/stars/Moriafly/DsoMusic)](https://github.com/Moriafly/DsoMusic/stargazers)
 
 更多产品，敬请期待 ~
 
 ---
 
-#### 在哪儿找到我？
+##### 在哪儿找到我？
 
 在 Github 上关注作者 [Moriafly](https://github.com/Moriafly)
 

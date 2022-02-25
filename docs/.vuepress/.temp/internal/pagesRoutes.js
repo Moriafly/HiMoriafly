@@ -6,7 +6,10 @@ const routeItems = [
   ["v-7174336b","/moriafly/",{"title":"作者介绍"},["/moriafly/index.html","/moriafly/README.md"]],
   ["v-65b5623e","/salt-player/download.html",{"title":"下载"},["/salt-player/download","/salt-player/download.md"]],
   ["v-c65a4870","/salt-player/help.html",{"title":"使用帮助"},["/salt-player/help","/salt-player/help.md"]],
+  ["v-7c3fd216","/salt-player/lyrics.html",{"title":"歌词"},["/salt-player/lyrics","/salt-player/lyrics.md"]],
   ["v-53938a5f","/salt-player/OPEN.html",{"title":"开放文档"},["/salt-player/OPEN","/salt-player/OPEN.md"]],
+  ["v-6f09a8ce","/salt-player/open_source.html",{"title":"开源部分"},["/salt-player/open_source","/salt-player/open_source.md"]],
+  ["v-db709288","/salt-player/pro.html",{"title":"椒盐音乐 Pro"},["/salt-player/pro","/salt-player/pro.md"]],
   ["v-665df470","/salt-player/",{"title":"介绍"},["/salt-player/index.html","/salt-player/README.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]

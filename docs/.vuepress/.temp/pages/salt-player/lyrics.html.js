@@ -1,35 +1,35 @@
 export const data = {
-  "key": "v-665df470",
-  "path": "/salt-player/",
-  "title": "介绍",
+  "key": "v-7c3fd216",
+  "path": "/salt-player/lyrics.html",
+  "title": "歌词",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
     {
       "level": 2,
-      "title": "基本信息",
-      "slug": "基本信息",
+      "title": "歌词来源",
+      "slug": "歌词来源",
       "children": []
     },
     {
       "level": 2,
-      "title": "为什么选择它",
-      "slug": "为什么选择它",
+      "title": "歌词体验",
+      "slug": "歌词体验",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "相关问题解答",
+      "slug": "相关问题解答",
       "children": []
     }
   ],
   "git": {
-    "updatedTime": 1645086311000,
-    "contributors": [
-      {
-        "name": "Moriafly",
-        "email": "62319450+Moriafly@users.noreply.github.com",
-        "commits": 3
-      }
-    ]
+    "updatedTime": null,
+    "contributors": []
   },
-  "filePathRelative": "salt-player/README.md"
+  "filePathRelative": "salt-player/lyrics.md"
 }
 
 if (import.meta.webpackHot) {
