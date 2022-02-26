@@ -1,14 +1,20 @@
 export const data = {
   "key": "v-890948a4",
   "path": "/max/Android.html",
-  "title": "",
+  "title": "Android",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1645862718000,
+    "contributors": [
+      {
+        "name": "Moriafly",
+        "email": "moriafly@163.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "max/Android.md"
 }
