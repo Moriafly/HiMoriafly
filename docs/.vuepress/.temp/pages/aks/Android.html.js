@@ -1,22 +1,16 @@
 export const data = {
-  "key": "v-6f09a8ce",
-  "path": "/salt-player/open_source.html",
-  "title": "开源部分",
+  "key": "v-41e22ba9",
+  "path": "/aks/Android.html",
+  "title": "",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1645775854000,
-    "contributors": [
-      {
-        "name": "Moriafly",
-        "email": "moriafly@163.com",
-        "commits": 3
-      }
-    ]
+    "updatedTime": null,
+    "contributors": []
   },
-  "filePathRelative": "salt-player/open_source.md"
+  "filePathRelative": "aks/Android.md"
 }
 
 if (import.meta.webpackHot) {

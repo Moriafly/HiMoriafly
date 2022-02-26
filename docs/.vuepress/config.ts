@@ -16,8 +16,12 @@ export default defineUserConfig<DefaultThemeOptions>({
         navbar: [
             // NavbarItem
             {
-              text: '椒盐音乐',
-              link: '/salt-player/',
+                text: '椒盐音乐',
+                link: '/salt-player/',
+              },
+            {
+              text: 'MAX 音频知识',
+              link: '/max/',
             },
             {
                 text: '作者介绍',
@@ -45,7 +49,18 @@ export default defineUserConfig<DefaultThemeOptions>({
                         '/salt-player/lyrics.md',
                         '/salt-player/pro.md',
                         '/salt-player/OPEN.md',
-                        '/salt-player/open_source.md'
+                        '/salt-player/open_source.md',
+                        '/salt-player/privacy_policy.md'
+                    ],
+                },
+            ],
+            '/max/': [
+                {
+                    text: 'MAX 音频知识',
+                    children: [
+                        '/max/README.md',
+                        '/max/Android.md',
+                        '/max/formats.md'
                     ],
                 },
             ],

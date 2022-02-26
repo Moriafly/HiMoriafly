@@ -26,8 +26,14 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1645775854000,
+    "contributors": [
+      {
+        "name": "Moriafly",
+        "email": "moriafly@163.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "salt-player/lyrics.md"
 }

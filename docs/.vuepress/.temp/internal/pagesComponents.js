@@ -3,6 +3,12 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/index.html.vue")),
+  // path: /max/Android.html
+  "v-890948a4": defineAsyncComponent(() => import(/* webpackChunkName: "v-890948a4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/Android.html.vue")),
+  // path: /max/formats.html
+  "v-d6307a7e": defineAsyncComponent(() => import(/* webpackChunkName: "v-d6307a7e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/formats.html.vue")),
+  // path: /max/
+  "v-7449d5c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-7449d5c4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/index.html.vue")),
   // path: /moriafly/history.html
   "v-36d883b0": defineAsyncComponent(() => import(/* webpackChunkName: "v-36d883b0" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/history.html.vue")),
   // path: /moriafly/
@@ -17,6 +23,8 @@ export const pagesComponents = {
   "v-53938a5f": defineAsyncComponent(() => import(/* webpackChunkName: "v-53938a5f" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/OPEN.html.vue")),
   // path: /salt-player/open_source.html
   "v-6f09a8ce": defineAsyncComponent(() => import(/* webpackChunkName: "v-6f09a8ce" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/open_source.html.vue")),
+  // path: /salt-player/privacy_policy.html
+  "v-5e2cd640": defineAsyncComponent(() => import(/* webpackChunkName: "v-5e2cd640" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/privacy_policy.html.vue")),
   // path: /salt-player/pro.html
   "v-db709288": defineAsyncComponent(() => import(/* webpackChunkName: "v-db709288" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/pro.html.vue")),
   // path: /salt-player/

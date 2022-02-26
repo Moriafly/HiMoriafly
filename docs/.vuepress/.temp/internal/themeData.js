@@ -6,6 +6,10 @@ export const themeData = {
       "link": "/salt-player/"
     },
     {
+      "text": "MAX 音频知识",
+      "link": "/max/"
+    },
+    {
       "text": "作者介绍",
       "link": "/moriafly/"
     }
@@ -21,7 +25,18 @@ export const themeData = {
           "/salt-player/lyrics.md",
           "/salt-player/pro.md",
           "/salt-player/OPEN.md",
-          "/salt-player/open_source.md"
+          "/salt-player/open_source.md",
+          "/salt-player/privacy_policy.md"
+        ]
+      }
+    ],
+    "/max/": [
+      {
+        "text": "MAX 音频知识",
+        "children": [
+          "/max/README.md",
+          "/max/Android.md",
+          "/max/formats.md"
         ]
       }
     ],
