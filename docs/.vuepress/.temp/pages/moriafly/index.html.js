@@ -32,11 +32,16 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1645102119000,
+    "updatedTime": 1645867193000,
     "contributors": [
       {
         "name": "Moriafly",
         "email": "62319450+Moriafly@users.noreply.github.com",
+        "commits": 1
+      },
+      {
+        "name": "Moriafly",
+        "email": "moriafly@163.com",
         "commits": 1
       }
     ]
