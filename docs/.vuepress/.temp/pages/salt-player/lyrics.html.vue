@@ -3,6 +3,11 @@
 <h2 id="歌词来源" tabindex="-1"><a class="header-anchor" href="#歌词来源" aria-hidden="true">#</a> 歌词来源</h2>
 <h4 id="内嵌歌词" tabindex="-1"><a class="header-anchor" href="#内嵌歌词" aria-hidden="true">#</a> 内嵌歌词</h4>
 <p>ID3 标签嵌入歌词，暂时仅支持 MP3 和 FLAC 格式。</p>
+<div class="custom-container warning"><p class="custom-container-title">注意</p>
+<p>仅支持 UTF-8 编码</p>
+<p>若你有其他支持内嵌歌词的音频文件，暂时推荐使用 LRC 歌词文件</p>
+<p>问题跟踪：<a href="https://github.com/Moriafly/SaltPlayerSource/issues/105" target="_blank" rel="noopener noreferrer">https://github.com/Moriafly/SaltPlayerSource/issues/105<ExternalLinkIcon/></a></p>
+</div>
 <h4 id="lrc-歌词" tabindex="-1"><a class="header-anchor" href="#lrc-歌词" aria-hidden="true">#</a> LRC 歌词</h4>
 <p>.lrc 歌词文件，需要歌词文件和歌曲同文件名。支持多种文本编码。</p>
 <h4 id="网络歌词" tabindex="-1"><a class="header-anchor" href="#网络歌词" aria-hidden="true">#</a> 网络歌词</h4>

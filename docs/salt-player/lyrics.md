@@ -8,6 +8,14 @@
 
 ID3 标签嵌入歌词，暂时仅支持 MP3 和 FLAC 格式。
 
+::: warning 注意
+仅支持 UTF-8 编码
+
+若你有其他支持内嵌歌词的音频文件，暂时推荐使用 LRC 歌词文件
+
+问题跟踪：[https://github.com/Moriafly/SaltPlayerSource/issues/105](https://github.com/Moriafly/SaltPlayerSource/issues/105)
+:::
+
 #### LRC 歌词
 
 .lrc 歌词文件，需要歌词文件和歌曲同文件名。支持多种文本编码。
