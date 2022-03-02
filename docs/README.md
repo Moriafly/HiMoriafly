@@ -15,7 +15,7 @@ features:
   - title: 体验
     details: 与 20 多万用户一起体验优秀的产品 ~ 23333333333333333 - 给我下载
   - title: 啊哈
-    details: 「最恨轻舟归未得，梦随流水到江村」可能自己写的懵懂诗句也有隐喻吧 （￣︶￣）↗　
+    details: 「最恨轻舟归未得，梦随流水到江村」
 footer: Copyright © 2020-2022 Moriafly
 ---
 

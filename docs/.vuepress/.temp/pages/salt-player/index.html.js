@@ -1,24 +1,11 @@
 export const data = {
   "key": "v-665df470",
   "path": "/salt-player/",
-  "title": "介绍",
+  "title": "椒盐音乐 - 数十万用户选择的 Android 本地音乐播放器",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [
-    {
-      "level": 2,
-      "title": "基本信息",
-      "slug": "基本信息",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "为什么选择它",
-      "slug": "为什么选择它",
-      "children": []
-    }
-  ],
+  "headers": [],
   "git": {
     "updatedTime": 1645775854000,
     "contributors": [

@@ -7,6 +7,8 @@ export const pagesData = {
   "v-d6307a7e": () => import(/* webpackChunkName: "v-d6307a7e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/formats.html.js").then(({ data }) => data),
   // path: /max/
   "v-7449d5c4": () => import(/* webpackChunkName: "v-7449d5c4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/index.html.js").then(({ data }) => data),
+  // path: /moriafly/coroutine.html
+  "v-95c63da8": () => import(/* webpackChunkName: "v-95c63da8" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/coroutine.html.js").then(({ data }) => data),
   // path: /moriafly/history.html
   "v-36d883b0": () => import(/* webpackChunkName: "v-36d883b0" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/history.html.js").then(({ data }) => data),
   // path: /moriafly/

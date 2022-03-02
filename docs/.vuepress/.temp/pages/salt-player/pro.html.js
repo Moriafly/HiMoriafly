@@ -24,6 +24,12 @@ export const data = {
           "children": []
         }
       ]
+    },
+    {
+      "level": 2,
+      "title": "功能介绍",
+      "slug": "功能介绍",
+      "children": []
     }
   ],
   "git": {

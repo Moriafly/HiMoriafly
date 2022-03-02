@@ -25,4 +25,5 @@
 <p>不需要。</p>
 <h4 id="更换设备需要再次付款吗" tabindex="-1"><a class="header-anchor" href="#更换设备需要再次付款吗" aria-hidden="true">#</a> 更换设备需要再次付款吗？</h4>
 <p>不需要。</p>
+<h2 id="功能介绍" tabindex="-1"><a class="header-anchor" href="#功能介绍" aria-hidden="true">#</a> 功能介绍</h2>
 </template>

@@ -9,6 +9,8 @@ export const pagesComponents = {
   "v-d6307a7e": defineAsyncComponent(() => import(/* webpackChunkName: "v-d6307a7e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/formats.html.vue")),
   // path: /max/
   "v-7449d5c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-7449d5c4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/index.html.vue")),
+  // path: /moriafly/coroutine.html
+  "v-95c63da8": defineAsyncComponent(() => import(/* webpackChunkName: "v-95c63da8" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/coroutine.html.vue")),
   // path: /moriafly/history.html
   "v-36d883b0": defineAsyncComponent(() => import(/* webpackChunkName: "v-36d883b0" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/history.html.vue")),
   // path: /moriafly/
