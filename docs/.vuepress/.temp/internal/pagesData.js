@@ -1,6 +1,10 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /android-dev/
+  "v-3444465e": () => import(/* webpackChunkName: "v-3444465e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/android-dev/index.html.js").then(({ data }) => data),
+  // path: /android-dev/tips.html
+  "v-b405a220": () => import(/* webpackChunkName: "v-b405a220" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/android-dev/tips.html.js").then(({ data }) => data),
   // path: /max/Android.html
   "v-890948a4": () => import(/* webpackChunkName: "v-890948a4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/Android.html.js").then(({ data }) => data),
   // path: /max/formats.html

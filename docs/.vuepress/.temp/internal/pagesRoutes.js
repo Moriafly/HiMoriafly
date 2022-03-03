@@ -2,6 +2,8 @@ import { Vuepress } from '@vuepress/client/lib/components/Vuepress'
 
 const routeItems = [
   ["v-8daa1a0e","/",{"title":"首页"},["/index.html","/README.md"]],
+  ["v-3444465e","/android-dev/",{"title":"Android Dev"},["/android-dev/index.html","/android-dev/README.md"]],
+  ["v-b405a220","/android-dev/tips.html",{"title":"Tips"},["/android-dev/tips","/android-dev/tips.md"]],
   ["v-890948a4","/max/Android.html",{"title":"Android"},["/max/Android","/max/Android.md"]],
   ["v-d6307a7e","/max/formats.html",{"title":"音频格式"},["/max/formats","/max/formats.md"]],
   ["v-7449d5c4","/max/",{"title":"Moriafly's Audio X"},["/max/index.html","/max/README.md"]],

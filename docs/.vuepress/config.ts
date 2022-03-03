@@ -24,6 +24,10 @@ export default defineUserConfig<DefaultThemeOptions>({
               link: '/max/',
             },
             {
+                text: 'Android Dev',
+                link: '/android-dev/',
+            },
+            {
                 text: '作者介绍',
                 link: '/moriafly/',
             }
@@ -64,13 +68,21 @@ export default defineUserConfig<DefaultThemeOptions>({
                     ],
                 },
             ],
+            '/android-dev/': [
+                {
+                    text: 'Android Dev',
+                    children: [
+                        '/android-dev/README.md',
+                        '/android-dev/tips.md'
+                    ],
+                }
+            ],
             '/moriafly/': [
                 {
                     text: '作者介绍',
                     children: [
                         '/moriafly/README.md',
-                        '/moriafly/history.md',
-                        '/moriafly/coroutine.md'
+                        '/moriafly/history.md'
                     ],
                 },
             ],

@@ -3,6 +3,10 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/index.html.vue")),
+  // path: /android-dev/
+  "v-3444465e": defineAsyncComponent(() => import(/* webpackChunkName: "v-3444465e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/android-dev/index.html.vue")),
+  // path: /android-dev/tips.html
+  "v-b405a220": defineAsyncComponent(() => import(/* webpackChunkName: "v-b405a220" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/android-dev/tips.html.vue")),
   // path: /max/Android.html
   "v-890948a4": defineAsyncComponent(() => import(/* webpackChunkName: "v-890948a4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/Android.html.vue")),
   // path: /max/formats.html

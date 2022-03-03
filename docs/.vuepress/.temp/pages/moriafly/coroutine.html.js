@@ -5,17 +5,16 @@ export const data = {
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [
-    {
-      "level": 2,
-      "title": "suspendCoroutine",
-      "slug": "suspendcoroutine",
-      "children": []
-    }
-  ],
+  "headers": [],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1646200538000,
+    "contributors": [
+      {
+        "name": "Moriafly",
+        "email": "moriafly@163.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "moriafly/coroutine.md"
 }
