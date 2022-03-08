@@ -45,5 +45,3 @@ Android 业余开发
 ## 联系方式
 
 邮箱 moriafly@163.com
-
-QQ 2456860197

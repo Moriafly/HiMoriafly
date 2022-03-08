@@ -64,5 +64,3 @@ Android Lyrics View 视图。
 在 Github 上关注作者 [Moriafly](https://github.com/Moriafly)
 
 业务来往请通过邮箱 moriafly@163.com ~ 作者会尽快与你取得联系
-
-偶尔断线的作者 QQ 2456860197
