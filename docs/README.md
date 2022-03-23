@@ -31,6 +31,8 @@ Jetpack Compose 构建的 Android 本地音乐播放器。
 [![GitHub stars](https://img.shields.io/github/stars/Moriafly/SaltPlayerSource)](https://github.com/Moriafly/SaltPlayerSource/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Moriafly/SaltPlayerSource)](https://github.com/Moriafly/SaltPlayerSource/issues)
 
+![椒盐音乐](\images\salt-player-1.jpg)
+
 > Melhor reprodutor de todos, não tenho o que reclamar, som, design...tudo perfeito, nunca vi um melhor do que esse, som bem nítido e dá pra curtir mesmo sem colocar o fone pra escutar bem as batidas e o que tem no fundo, simplesmente incrível ❤♓👌<br><br>
 有史以来最好的播放器，我没有什么可抱怨的，声音，设计......一切都很完美，我从未见过比这更好的，非常清晰的声音，即使不戴上耳机听节拍也可以享受它还有背景是什么，太棒了❤♓👌<br><br>
  —— 来自 Google Play 葡萄牙语用户 Herinaldo Sales

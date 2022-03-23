@@ -8,20 +8,14 @@ export const data = {
   "headers": [
     {
       "level": 2,
-      "title": "个人技术",
-      "slug": "个人技术",
+      "title": "最喜欢 1",
+      "slug": "最喜欢-1",
       "children": []
     },
     {
       "level": 2,
-      "title": "个人历程",
-      "slug": "个人历程",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "作者日常之游戏",
-      "slug": "作者日常之游戏",
+      "title": "最喜欢 2",
+      "slug": "最喜欢-2",
       "children": []
     },
     {
@@ -32,12 +26,12 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1645867193000,
+    "updatedTime": 1646739186000,
     "contributors": [
       {
         "name": "Moriafly",
         "email": "62319450+Moriafly@users.noreply.github.com",
-        "commits": 1
+        "commits": 2
       },
       {
         "name": "Moriafly",

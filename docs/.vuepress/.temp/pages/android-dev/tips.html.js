@@ -26,8 +26,14 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1646286685000,
+    "contributors": [
+      {
+        "name": "Moriafly",
+        "email": "moriafly@163.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "android-dev/tips.md"
 }

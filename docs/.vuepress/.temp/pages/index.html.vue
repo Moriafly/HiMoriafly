@@ -5,6 +5,7 @@
 <p><a href="https://github.com/Moriafly/SaltPlayerSource/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/v/release/Moriafly/SaltPlayerSource" alt="Release Version"><ExternalLinkIcon/></a>
 <a href="https://github.com/Moriafly/SaltPlayerSource/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Moriafly/SaltPlayerSource" alt="GitHub stars"><ExternalLinkIcon/></a>
 <a href="https://github.com/Moriafly/SaltPlayerSource/issues" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/issues/Moriafly/SaltPlayerSource" alt="GitHub issues"><ExternalLinkIcon/></a></p>
+<p><img src="\images\salt-player-1.jpg" alt="椒盐音乐"></p>
 <blockquote>
 <p>Melhor reprodutor de todos, não tenho o que reclamar, som, design...tudo perfeito, nunca vi um melhor do que esse, som bem nítido e dá pra curtir mesmo sem colocar o fone pra escutar bem as batidas e o que tem no fundo, simplesmente incrível ❤♓👌<br><br>
 有史以来最好的播放器，我没有什么可抱怨的，声音，设计......一切都很完美，我从未见过比这更好的，非常清晰的声音，即使不戴上耳机听节拍也可以享受它还有背景是什么，太棒了❤♓👌<br><br>
@@ -27,5 +28,4 @@
 <h5 id="在哪儿找到我" tabindex="-1"><a class="header-anchor" href="#在哪儿找到我" aria-hidden="true">#</a> 在哪儿找到我？</h5>
 <p>在 Github 上关注作者 <a href="https://github.com/Moriafly" target="_blank" rel="noopener noreferrer">Moriafly<ExternalLinkIcon/></a></p>
 <p>业务来往请通过邮箱 moriafly@163.com ~ 作者会尽快与你取得联系</p>
-<p>偶尔断线的作者 QQ 2456860197</p>
 </template>

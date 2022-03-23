@@ -45,17 +45,17 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1646200538000,
+    "updatedTime": 1646739186000,
     "contributors": [
       {
         "name": "Moriafly",
-        "email": "moriafly@163.com",
+        "email": "62319450+Moriafly@users.noreply.github.com",
         "commits": 3
       },
       {
         "name": "Moriafly",
-        "email": "62319450+Moriafly@users.noreply.github.com",
-        "commits": 2
+        "email": "moriafly@163.com",
+        "commits": 3
       }
     ]
   },

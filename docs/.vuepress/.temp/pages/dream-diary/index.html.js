@@ -1,22 +1,22 @@
 export const data = {
-  "key": "v-3444465e",
-  "path": "/android-dev/",
-  "title": "Android Dev",
+  "key": "v-39d7c34f",
+  "path": "/dream-diary/",
+  "title": "愿望日记",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1646286685000,
+    "updatedTime": 1646739186000,
     "contributors": [
       {
         "name": "Moriafly",
-        "email": "moriafly@163.com",
+        "email": "62319450+Moriafly@users.noreply.github.com",
         "commits": 1
       }
     ]
   },
-  "filePathRelative": "android-dev/README.md"
+  "filePathRelative": "dream-diary/README.md"
 }
 
 if (import.meta.webpackHot) {
