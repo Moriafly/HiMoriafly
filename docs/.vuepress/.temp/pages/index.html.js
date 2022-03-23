@@ -18,7 +18,7 @@ export const data = {
       },
       {
         "title": "啊哈",
-        "details": "「最恨轻舟归未得，梦随流水到江村」"
+        "details": "Too late"
       }
     ],
     "footer": "Copyright © 2020-2022 Moriafly"
@@ -45,12 +45,12 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1646739186000,
+    "updatedTime": 1648002494000,
     "contributors": [
       {
         "name": "Moriafly",
         "email": "62319450+Moriafly@users.noreply.github.com",
-        "commits": 3
+        "commits": 4
       },
       {
         "name": "Moriafly",
