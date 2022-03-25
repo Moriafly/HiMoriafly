@@ -10,7 +10,7 @@
 
 ## 最喜欢 2
 
-[《古剑奇谭三：梦付千秋星垂野》](https://gjqt3.wangyuan.com/)。永远喜欢缨缨缨！
+[《古剑奇谭三：梦付千秋星垂野》](https://gjqt3.wangyuan.com/)
 
 ![古剑三结语](./gujian_end.png)
 

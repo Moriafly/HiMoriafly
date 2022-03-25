@@ -10,15 +10,15 @@ export const data = {
     "features": [
       {
         "title": "旧事",
-        "details": "其实花是落在地上，我确实是随手捡的 ~ 🌸南桥樱花踏过，想与你看江潮，今天还在等你回我一个笑容 (●'◡'●)"
+        "details": "其实花是落在地上，我确实是随手捡的 ~ 🌸"
       },
       {
         "title": "体验",
-        "details": "与 20 多万用户一起体验优秀的产品 ~ 23333333333333333 - 给我下载"
+        "details": "与 20 多万用户一起体验优秀的产品"
       },
       {
         "title": "啊哈",
-        "details": "Too late"
+        "details": "is too late"
       }
     ],
     "footer": "Copyright © 2020-2022 Moriafly"
@@ -27,8 +27,8 @@ export const data = {
   "headers": [
     {
       "level": 3,
-      "title": "椒盐音乐",
-      "slug": "椒盐音乐",
+      "title": "椒盐音乐 Salt Player",
+      "slug": "椒盐音乐-salt-player",
       "children": []
     },
     {
@@ -45,12 +45,12 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1648002494000,
+    "updatedTime": 1648003139000,
     "contributors": [
       {
         "name": "Moriafly",
         "email": "62319450+Moriafly@users.noreply.github.com",
-        "commits": 4
+        "commits": 5
       },
       {
         "name": "Moriafly",

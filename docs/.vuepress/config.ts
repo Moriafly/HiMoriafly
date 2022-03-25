@@ -6,7 +6,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     base: '/HiMoriafly/',
     lang: 'en-US',
     title: 'Hi, Moriafly',
-    description: '不要糖醋放椒盐 🕊️🐯🍨',
+    description: '不要糖醋放椒盐',
 
     // 主题和它的配置
     theme: '@vuepress/theme-default',

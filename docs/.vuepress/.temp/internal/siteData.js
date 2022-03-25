@@ -2,7 +2,7 @@ export const siteData = {
   "base": "/HiMoriafly/",
   "lang": "en-US",
   "title": "Hi, Moriafly",
-  "description": "不要糖醋放椒盐 🕊️🐯🍨",
+  "description": "不要糖醋放椒盐",
   "head": [],
   "locales": {}
 }

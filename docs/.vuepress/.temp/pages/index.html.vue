@@ -1,7 +1,7 @@
 <template><hr>
 <h5 id="软件产品" tabindex="-1"><a class="header-anchor" href="#软件产品" aria-hidden="true">#</a> 软件产品</h5>
-<h3 id="椒盐音乐" tabindex="-1"><a class="header-anchor" href="#椒盐音乐" aria-hidden="true">#</a> <RouterLink to="/salt-player/"><strong>椒盐音乐</strong></RouterLink></h3>
-<p>Jetpack Compose 构建的 Android 本地音乐播放器。</p>
+<h3 id="椒盐音乐-salt-player" tabindex="-1"><a class="header-anchor" href="#椒盐音乐-salt-player" aria-hidden="true">#</a> <RouterLink to="/salt-player/"><strong>椒盐音乐 Salt Player</strong></RouterLink></h3>
+<p>最新基于 <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noopener noreferrer">Jetpack Compose<ExternalLinkIcon/></a> 构建的 Android™ 本地音乐播放器。</p>
 <p><a href="https://github.com/Moriafly/SaltPlayerSource/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/v/release/Moriafly/SaltPlayerSource" alt="Release Version"><ExternalLinkIcon/></a>
 <a href="https://github.com/Moriafly/SaltPlayerSource/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Moriafly/SaltPlayerSource" alt="GitHub stars"><ExternalLinkIcon/></a>
 <a href="https://github.com/Moriafly/SaltPlayerSource/issues" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/issues/Moriafly/SaltPlayerSource" alt="GitHub issues"><ExternalLinkIcon/></a></p>
@@ -11,7 +11,7 @@
 有史以来最好的播放器，我没有什么可抱怨的，声音，设计......一切都很完美，我从未见过比这更好的，非常清晰的声音，即使不戴上耳机听节拍也可以享受它还有背景是什么，太棒了❤♓👌<br><br>
 —— 来自 Google Play 葡萄牙语用户 Herinaldo Sales</p>
 </blockquote>
-<p><RouterLink to="/salt-player/">点击查看有关椒盐音乐的详细介绍、帮助、服务等等</RouterLink></p>
+<p><RouterLink to="/salt-player/">点击查看有关椒盐音乐的详细介绍、帮助、服务等</RouterLink></p>
 <hr>
 <h5 id="开源仓库" tabindex="-1"><a class="header-anchor" href="#开源仓库" aria-hidden="true">#</a> 开源仓库</h5>
 <h3 id="dso-music" tabindex="-1"><a class="header-anchor" href="#dso-music" aria-hidden="true">#</a> <a href="https://github.com/Moriafly/DsoMusic" target="_blank" rel="noopener noreferrer"><strong>Dso Music</strong><ExternalLinkIcon/></a></h3>
