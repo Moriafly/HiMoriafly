@@ -15,7 +15,7 @@ features:
   - title: 体验
     details: 与 20 多万用户一起体验优秀的产品
   - title: 啊哈
-    details: is too late
+    details: It's too late
 footer: Copyright © 2020-2022 Moriafly
 ---
 
