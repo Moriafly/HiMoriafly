@@ -55,3 +55,14 @@ override fun onCreate(savedInstanceState: Bundle?) {
 
 贡献来自：Github@1552980358
 
+## compositionLocalOf 学习
+
+default 是当无 provides 时候的提供值
+
+```
+CompositionLocalProvider(
+    Local... provides [变更影响下方]
+) {
+    // 影响
+}
+```

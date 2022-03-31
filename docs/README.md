@@ -13,7 +13,7 @@ features:
   - title: 旧事
     details: 其实花是落在地上，我确实是随手捡的 ~ 🌸
   - title: 体验
-    details: 与 20 多万用户一起体验优秀的产品
+    details: 与 30 万用户一起体验优秀的产品
   - title: 啊哈
     details: It's too late
 footer: Copyright © 2020-2022 Moriafly
@@ -60,6 +60,10 @@ Android Lyrics View 视图。
 [![GitHub license](https://img.shields.io/github/license/Moriafly/LyricViewX)](LICENSE)
 
 ---
+
+#### 日活用户
+
+1 万 +
 
 ##### 在哪儿找到我？
 
