@@ -1,6 +1,6 @@
 <template><h1 id="moriafly-发展计划" tabindex="-1"><a class="header-anchor" href="#moriafly-发展计划" aria-hidden="true">#</a> Moriafly 发展计划</h1>
 <h1 id="产品路线图" tabindex="-1"><a class="header-anchor" href="#产品路线图" aria-hidden="true">#</a> 产品路线图</h1>
-<p>经过 2022 年 4 月份调整，Moriafly 软件产品大版本更新会进行内部组讨论测试确定预发布功能和规划（不对外公布），经过规划后进行公开两轮测试，面向 QQ 群聊和 Telegram 频道（主要为 Telegram 频道）进行。</p>
+<p>经过 2022 年 4 月份调整，Moriafly 软件产品大版本更新会进行内部组讨论测试确定预发布功能和规划（不对外公布），经过规划后进行公开两轮测试，面向 QQ 群聊和 Telegram 频道（主要为 Telegram 频道）的 alpha 版本推送和面向更多用户的 beta 版本推送。</p>
 <p>以下是产品发布路线图，时间仅为预计时间，最终发布时间可能有变化。</p>
 <h2 id="椒盐音乐" tabindex="-1"><a class="header-anchor" href="#椒盐音乐" aria-hidden="true">#</a> 椒盐音乐</h2>
 <p>重要产品</p>
@@ -13,7 +13,7 @@
 <li>2022-08 8.0.0 对 WebDAV 的支持</li>
 </ul>
 <h4 id="产品问题反馈" tabindex="-1"><a class="header-anchor" href="#产品问题反馈" aria-hidden="true">#</a> 产品问题反馈</h4>
-<p>推荐渠道：通过 <a href="https://github.com/Moriafly/SaltPlayerSource/issues" target="_blank" rel="noopener noreferrer">Github/SaltPlayerSource<ExternalLinkIcon/></a> 提交反馈，作者尝试会规则跟进。或者使用邮箱 moriafly@163.com / QQ 2456860197 联系，会尽快与你取得联系。（偶然佛系，见谅）</p>
+<p>推荐渠道：通过 <a href="https://github.com/Moriafly/SaltPlayerSource/issues" target="_blank" rel="noopener noreferrer">Github/SaltPlayerSource<ExternalLinkIcon/></a> 提交反馈，作者尝试会规则跟进。或者使用邮箱 moriafly@163.com / QQ 2456860197 联系，会尽快与你取得联系。（偶尔佛系，见谅）</p>
 <h2 id="dso-music" tabindex="-1"><a class="header-anchor" href="#dso-music" aria-hidden="true">#</a> Dso Music</h2>
 <p>开源库、维护产品</p>
 <p>暂无更新计划</p>
