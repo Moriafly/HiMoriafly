@@ -17,6 +17,10 @@
 - 2022-06 7.2.0 对歌词分享的重要更新
 - 2022-08 8.0.0 对 WebDAV 的支持
 
+#### 产品问题反馈
+
+推荐渠道：通过 [Github/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource/issues) 提交反馈，作者尝试会规则跟进。或者使用邮箱 moriafly@163.com / QQ 2456860197 联系，会尽快与你取得联系。（偶然佛系，见谅）
+
 ## Dso Music
 
 开源库、维护产品
