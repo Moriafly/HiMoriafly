@@ -8,30 +8,18 @@ export const data = {
   "headers": [
     {
       "level": 2,
-      "title": "最喜欢 1",
-      "slug": "最喜欢-1",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "最喜欢 2",
-      "slug": "最喜欢-2",
-      "children": []
-    },
-    {
-      "level": 2,
       "title": "联系方式",
       "slug": "联系方式",
       "children": []
     }
   ],
   "git": {
-    "updatedTime": 1648002494000,
+    "updatedTime": 1648350185000,
     "contributors": [
       {
         "name": "Moriafly",
         "email": "62319450+Moriafly@users.noreply.github.com",
-        "commits": 3
+        "commits": 5
       },
       {
         "name": "Moriafly",

@@ -1,6 +1,10 @@
 export const pagesData = {
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
+  // path: /android-dev/
+  "v-3444465e": () => import(/* webpackChunkName: "v-3444465e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/android-dev/index.html.js").then(({ data }) => data),
+  // path: /android-dev/tips.html
+  "v-b405a220": () => import(/* webpackChunkName: "v-b405a220" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/android-dev/tips.html.js").then(({ data }) => data),
   // path: /max/Android.html
   "v-890948a4": () => import(/* webpackChunkName: "v-890948a4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/Android.html.js").then(({ data }) => data),
   // path: /max/formats.html
@@ -13,6 +17,8 @@ export const pagesData = {
   "v-39d7c34f": () => import(/* webpackChunkName: "v-39d7c34f" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/dream-diary/index.html.js").then(({ data }) => data),
   // path: /moriafly/coroutine.html
   "v-95c63da8": () => import(/* webpackChunkName: "v-95c63da8" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/coroutine.html.js").then(({ data }) => data),
+  // path: /moriafly/dev.html
+  "v-d1e8cb62": () => import(/* webpackChunkName: "v-d1e8cb62" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/dev.html.js").then(({ data }) => data),
   // path: /moriafly/history.html
   "v-36d883b0": () => import(/* webpackChunkName: "v-36d883b0" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/history.html.js").then(({ data }) => data),
   // path: /moriafly/
@@ -33,10 +39,6 @@ export const pagesData = {
   "v-db709288": () => import(/* webpackChunkName: "v-db709288" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/pro.html.js").then(({ data }) => data),
   // path: /salt-player/
   "v-665df470": () => import(/* webpackChunkName: "v-665df470" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/index.html.js").then(({ data }) => data),
-  // path: /android-dev/
-  "v-3444465e": () => import(/* webpackChunkName: "v-3444465e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/android-dev/index.html.js").then(({ data }) => data),
-  // path: /android-dev/tips.html
-  "v-b405a220": () => import(/* webpackChunkName: "v-b405a220" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/android-dev/tips.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }

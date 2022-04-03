@@ -25,6 +25,8 @@
 <a href="https://github.com/Moriafly/LyricViewX/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Moriafly/LyricViewX" alt="GitHub stars"><ExternalLinkIcon/></a>
 <a href="LICENSE"><img src="https://img.shields.io/github/license/Moriafly/LyricViewX" alt="GitHub license"></a></p>
 <hr>
+<h4 id="日活用户" tabindex="-1"><a class="header-anchor" href="#日活用户" aria-hidden="true">#</a> 日活用户</h4>
+<p>1 万 +</p>
 <h5 id="在哪儿找到我" tabindex="-1"><a class="header-anchor" href="#在哪儿找到我" aria-hidden="true">#</a> 在哪儿找到我？</h5>
 <p>在 Github 上关注作者 <a href="https://github.com/Moriafly" target="_blank" rel="noopener noreferrer">Moriafly<ExternalLinkIcon/></a></p>
 <p>业务来往请通过邮箱 moriafly@163.com ~ 作者会尽快与你取得联系</p>

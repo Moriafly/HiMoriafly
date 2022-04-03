@@ -36,4 +36,11 @@
     <span class="token comment">// ...</span>
 <span class="token punctuation">}</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br></div></div><p>贡献来自：Github@1552980358</p>
-</template>
+<h2 id="compositionlocalof-学习" tabindex="-1"><a class="header-anchor" href="#compositionlocalof-学习" aria-hidden="true">#</a> compositionLocalOf 学习</h2>
+<p>default 是当无 provides 时候的提供值</p>
+<div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>CompositionLocalProvider(
+    Local... provides [变更影响下方]
+) {
+    // 影响
+}
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br></div></div></template>

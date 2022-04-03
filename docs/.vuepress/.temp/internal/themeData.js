@@ -58,6 +58,7 @@ export const themeData = {
         "text": "作者介绍",
         "children": [
           "/moriafly/README.md",
+          "/moriafly/dev.md",
           "/moriafly/history.md"
         ]
       }

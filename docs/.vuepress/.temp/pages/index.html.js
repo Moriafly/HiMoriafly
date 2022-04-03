@@ -14,11 +14,11 @@ export const data = {
       },
       {
         "title": "体验",
-        "details": "与 20 多万用户一起体验优秀的产品"
+        "details": "与 30 万用户一起体验优秀的产品"
       },
       {
         "title": "啊哈",
-        "details": "is too late"
+        "details": "It's too late"
       }
     ],
     "footer": "Copyright © 2020-2022 Moriafly"
@@ -45,12 +45,12 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1648003139000,
+    "updatedTime": 1648727261000,
     "contributors": [
       {
         "name": "Moriafly",
         "email": "62319450+Moriafly@users.noreply.github.com",
-        "commits": 5
+        "commits": 8
       },
       {
         "name": "Moriafly",
