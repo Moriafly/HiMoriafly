@@ -17,6 +17,10 @@
 - 2022-06 7.2.0 对歌词分享的重要更新
 - 2022-08 8.0.0 对 WebDAV 的支持
 
+#### 排期
+
+详见 [Github/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource/issues) 仓库。
+
 #### 产品问题反馈
 
 推荐渠道：通过 [Github/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource/issues) 提交反馈，作者尝试会规则跟进。或者使用邮箱 moriafly@163.com / QQ 2456860197 联系，会尽快与你取得联系。（偶尔佛系，见谅）
@@ -31,7 +35,7 @@
 
 筹备产品
 
-- 2022-04 1.0.0-dev02 和夏讨论第二个开发版发展计划
+- 2022-04 1.0.0-dev02 讨论第二个开发版发展计划
 - 2022-05 1.0.0-dev03-04 
 - 2022-06 1.0.0-pre-alpha 内部测试招募
 - 2022-07 1.0.0-beta 公测

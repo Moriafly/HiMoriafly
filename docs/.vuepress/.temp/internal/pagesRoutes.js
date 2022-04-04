@@ -22,6 +22,7 @@ const routeItems = [
   ["v-db709288","/salt-player/pro.html",{"title":"椒盐音乐 Pro"},["/salt-player/pro","/salt-player/pro.md"]],
   ["v-665df470","/salt-player/",{"title":"椒盐音乐 - 数十万用户选择的 Android 本地音乐播放器"},["/salt-player/index.html","/salt-player/README.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
+  ["v-54582965","/moriafly/update.html",{"title":"产品的更新"},["/moriafly/update","/moriafly/update.md"]],
 ]
 
 export const pagesRoutes = routeItems.reduce(

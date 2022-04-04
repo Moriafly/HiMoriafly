@@ -43,4 +43,6 @@ export const pagesComponents = {
   "v-665df470": defineAsyncComponent(() => import(/* webpackChunkName: "v-665df470" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/404.html.vue")),
+  // path: /moriafly/update.html
+  "v-54582965": defineAsyncComponent(() => import(/* webpackChunkName: "v-54582965" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/update.html.vue")),
 }
