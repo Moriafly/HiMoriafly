@@ -24,9 +24,12 @@
 <p><a href="https://github.com/Moriafly/LyricViewX/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/v/release/Moriafly/LyricViewX" alt="Release Version"><ExternalLinkIcon/></a>
 <a href="https://github.com/Moriafly/LyricViewX/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Moriafly/LyricViewX" alt="GitHub stars"><ExternalLinkIcon/></a>
 <a href="LICENSE"><img src="https://img.shields.io/github/license/Moriafly/LyricViewX" alt="GitHub license"></a></p>
+<h3 id="regret" tabindex="-1"><a class="header-anchor" href="#regret" aria-hidden="true">#</a> <a href="https://github.com/Moriafly/Regret" target="_blank" rel="noopener noreferrer"><strong>Regret</strong><ExternalLinkIcon/></a></h3>
+<p>Undo/ Redo for Android.</p>
+<p><a href="https://github.com/Moriafly/Regret/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/v/release/Moriafly/Regret" alt="Release Version"><ExternalLinkIcon/></a>
+<a href="https://github.com/Moriafly/Regret/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Moriafly/Regret" alt="GitHub stars"><ExternalLinkIcon/></a>
+<a href="LICENSE"><img src="https://img.shields.io/github/license/Moriafly/Regret" alt="GitHub license"></a></p>
 <hr>
-<h4 id="日活用户" tabindex="-1"><a class="header-anchor" href="#日活用户" aria-hidden="true">#</a> 日活用户</h4>
-<p>1 万 +</p>
 <h5 id="在哪儿找到我" tabindex="-1"><a class="header-anchor" href="#在哪儿找到我" aria-hidden="true">#</a> 在哪儿找到我？</h5>
 <p>在 Github 上关注作者 <a href="https://github.com/Moriafly" target="_blank" rel="noopener noreferrer">Moriafly<ExternalLinkIcon/></a></p>
 <p>业务来往请通过邮箱 moriafly@163.com ~ 作者会尽快与你取得联系</p>

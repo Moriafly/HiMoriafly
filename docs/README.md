@@ -59,11 +59,15 @@ Android Lyrics View 视图。
 [![GitHub stars](https://img.shields.io/github/stars/Moriafly/LyricViewX)](https://github.com/Moriafly/LyricViewX/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Moriafly/LyricViewX)](LICENSE)
 
+### [**Regret**](https://github.com/Moriafly/Regret)
+
+Undo/ Redo for Android.
+
+[![Release Version](https://img.shields.io/github/v/release/Moriafly/Regret)](https://github.com/Moriafly/Regret/releases/latest)
+[![GitHub stars](https://img.shields.io/github/stars/Moriafly/Regret)](https://github.com/Moriafly/Regret/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Moriafly/Regret)](LICENSE)
+
 ---
-
-#### 日活用户
-
-1 万 +
 
 ##### 在哪儿找到我？
 

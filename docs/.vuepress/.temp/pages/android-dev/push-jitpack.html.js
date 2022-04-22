@@ -1,22 +1,23 @@
 export const data = {
-  "key": "v-54582965",
-  "path": "/moriafly/update.html",
-  "title": "产品的更新",
+  "key": "v-d9c83be6",
+  "path": "/android-dev/push-jitpack.html",
+  "title": "",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 2,
+      "title": "1",
+      "slug": "_1",
+      "children": []
+    }
+  ],
   "git": {
-    "updatedTime": 1649032342000,
-    "contributors": [
-      {
-        "name": "Moriafly",
-        "email": "62319450+Moriafly@users.noreply.github.com",
-        "commits": 1
-      }
-    ]
+    "updatedTime": null,
+    "contributors": []
   },
-  "filePathRelative": "moriafly/update.md"
+  "filePathRelative": "android-dev/push-jitpack.md"
 }
 
 if (import.meta.webpackHot) {

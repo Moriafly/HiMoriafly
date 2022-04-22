@@ -7,12 +7,12 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1645868283000,
+    "updatedTime": 1648991699000,
     "contributors": [
       {
         "name": "Moriafly",
         "email": "62319450+Moriafly@users.noreply.github.com",
-        "commits": 1
+        "commits": 2
       },
       {
         "name": "Moriafly",

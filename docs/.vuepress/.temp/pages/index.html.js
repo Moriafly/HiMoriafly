@@ -42,6 +42,12 @@ export const data = {
       "title": "LyricViewX",
       "slug": "lyricviewx",
       "children": []
+    },
+    {
+      "level": 3,
+      "title": "Regret",
+      "slug": "regret",
+      "children": []
     }
   ],
   "git": {

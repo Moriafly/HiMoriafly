@@ -30,15 +30,26 @@ export const data = {
       "title": "功能介绍",
       "slug": "功能介绍",
       "children": []
+    },
+    {
+      "level": 2,
+      "title": "注意",
+      "slug": "注意",
+      "children": []
     }
   ],
   "git": {
-    "updatedTime": 1646200538000,
+    "updatedTime": 1649564125000,
     "contributors": [
       {
         "name": "Moriafly",
         "email": "moriafly@163.com",
         "commits": 4
+      },
+      {
+        "name": "Moriafly",
+        "email": "62319450+Moriafly@users.noreply.github.com",
+        "commits": 1
       }
     ]
   },

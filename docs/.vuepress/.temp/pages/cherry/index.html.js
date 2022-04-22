@@ -1,40 +1,29 @@
 export const data = {
-  "key": "v-7174336b",
-  "path": "/moriafly/",
-  "title": "作者介绍",
+  "key": "v-d3699ec6",
+  "path": "/cherry/",
+  "title": "Cherry 笔记",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [
     {
       "level": 2,
-      "title": "关注作者",
-      "slug": "关注作者",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "联系方式",
-      "slug": "联系方式",
+      "title": "支持多种轻笔记格式",
+      "slug": "支持多种轻笔记格式",
       "children": []
     }
   ],
   "git": {
-    "updatedTime": 1648991699000,
+    "updatedTime": 1649564125000,
     "contributors": [
       {
         "name": "Moriafly",
         "email": "62319450+Moriafly@users.noreply.github.com",
-        "commits": 6
-      },
-      {
-        "name": "Moriafly",
-        "email": "moriafly@163.com",
         "commits": 1
       }
     ]
   },
-  "filePathRelative": "moriafly/README.md"
+  "filePathRelative": "cherry/README.md"
 }
 
 if (import.meta.webpackHot) {
