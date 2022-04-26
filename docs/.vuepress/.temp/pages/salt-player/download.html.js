@@ -8,6 +8,18 @@ export const data = {
   "headers": [
     {
       "level": 2,
+      "title": "历史版本",
+      "slug": "历史版本",
+      "children": []
+    },
+    {
+      "level": 2,
+      "title": "推荐的下载平台",
+      "slug": "推荐的下载平台",
+      "children": []
+    },
+    {
+      "level": 2,
       "title": "下载说明",
       "slug": "下载说明",
       "children": []

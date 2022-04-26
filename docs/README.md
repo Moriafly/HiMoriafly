@@ -61,7 +61,7 @@ Android Lyrics View 视图。
 
 ### [**Regret**](https://github.com/Moriafly/Regret)
 
-Undo/ Redo for Android.
+Undo/Redo for Android.
 
 [![Release Version](https://img.shields.io/github/v/release/Moriafly/Regret)](https://github.com/Moriafly/Regret/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/Moriafly/Regret)](https://github.com/Moriafly/Regret/stargazers)

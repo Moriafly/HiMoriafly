@@ -23,6 +23,7 @@
 <h4 id="hq、sq-和-hi-res-标识是什么意思" tabindex="-1"><a class="header-anchor" href="#hq、sq-和-hi-res-标识是什么意思" aria-hidden="true">#</a> HQ、SQ 和 Hi-Res 标识是什么意思？</h4>
 <p>HQ 表示高品质音乐，通常指比特率大于等于 320 kbps 的音频；SQ 表示超高品质音乐；Hi-Res 表示高解析度音频，通常指高于 CD 格式（采样率 44.1位 / 位深 16 bit）的音频。常见高解析音频格式：FLAC / DSD (DFF / DSF) / WAV / AIFF 。</p>
 <h4 id="部分-wav-歌曲信息-元数据-无法读取" tabindex="-1"><a class="header-anchor" href="#部分-wav-歌曲信息-元数据-无法读取" aria-hidden="true">#</a> 部分 WAV 歌曲信息（元数据）无法读取？</h4>
+<p>变更：椒盐音乐 7.0.0-dev0423 开始支持 WAV 音频信息。</p>
 <p>WAV 不支持元数据，安卓媒体库似乎不支持读取 WAV 音频外挂 ID3 标签信息。</p>
 <h4 id="此设备不支持均衡器是什么意思" tabindex="-1"><a class="header-anchor" href="#此设备不支持均衡器是什么意思" aria-hidden="true">#</a> 此设备不支持均衡器是什么意思？</h4>
 <p>椒盐音乐会调用系统均衡器，此定制系统可能不含有内置均衡器应用。</p>

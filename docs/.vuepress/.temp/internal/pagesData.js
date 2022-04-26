@@ -51,4 +51,8 @@ export const pagesData = {
   "v-665df470": () => import(/* webpackChunkName: "v-665df470" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
+  // path: /salt-player/song_info.html
+  "v-12c33a9e": () => import(/* webpackChunkName: "v-12c33a9e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/song_info.html.js").then(({ data }) => data),
+  // path: /salt-player/v7.html
+  "v-0a036ef0": () => import(/* webpackChunkName: "v-0a036ef0" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/v7.html.js").then(({ data }) => data),
 }

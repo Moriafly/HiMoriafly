@@ -27,6 +27,8 @@ const routeItems = [
   ["v-db709288","/salt-player/pro.html",{"title":"椒盐音乐 Pro"},["/salt-player/pro","/salt-player/pro.md"]],
   ["v-665df470","/salt-player/",{"title":"椒盐音乐 - 数十万用户选择的 Android 本地音乐播放器"},["/salt-player/index.html","/salt-player/README.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
+  ["v-12c33a9e","/salt-player/song_info.html",{"title":"歌曲信息获取"},["/salt-player/song_info","/salt-player/song_info.md"]],
+  ["v-0a036ef0","/salt-player/v7.html",{"title":"椒盐音乐 7.0"},["/salt-player/v7","/salt-player/v7.md"]],
 ]
 
 export const pagesRoutes = routeItems.reduce(

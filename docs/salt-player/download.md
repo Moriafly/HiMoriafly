@@ -2,6 +2,12 @@
 
 你可以在以下渠道下载椒盐音乐，其他平台非开发者上传注意识别。
 
+## 历史版本
+
+[5.20.0-release-2022032401.apk](https://foyou.lanzouf.com/iJh8e0324v9a)
+
+## 推荐的下载平台
+
 #### 酷安
 
 [访问酷安-椒盐音乐](https://www.coolapk.com/apk/284064)

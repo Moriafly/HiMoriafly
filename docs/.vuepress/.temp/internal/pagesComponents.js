@@ -53,4 +53,8 @@ export const pagesComponents = {
   "v-665df470": defineAsyncComponent(() => import(/* webpackChunkName: "v-665df470" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/404.html.vue")),
+  // path: /salt-player/song_info.html
+  "v-12c33a9e": defineAsyncComponent(() => import(/* webpackChunkName: "v-12c33a9e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/song_info.html.vue")),
+  // path: /salt-player/v7.html
+  "v-0a036ef0": defineAsyncComponent(() => import(/* webpackChunkName: "v-0a036ef0" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/v7.html.vue")),
 }

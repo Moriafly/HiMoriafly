@@ -25,7 +25,7 @@
 <a href="https://github.com/Moriafly/LyricViewX/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Moriafly/LyricViewX" alt="GitHub stars"><ExternalLinkIcon/></a>
 <a href="LICENSE"><img src="https://img.shields.io/github/license/Moriafly/LyricViewX" alt="GitHub license"></a></p>
 <h3 id="regret" tabindex="-1"><a class="header-anchor" href="#regret" aria-hidden="true">#</a> <a href="https://github.com/Moriafly/Regret" target="_blank" rel="noopener noreferrer"><strong>Regret</strong><ExternalLinkIcon/></a></h3>
-<p>Undo/ Redo for Android.</p>
+<p>Undo/Redo for Android.</p>
 <p><a href="https://github.com/Moriafly/Regret/releases/latest" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/v/release/Moriafly/Regret" alt="Release Version"><ExternalLinkIcon/></a>
 <a href="https://github.com/Moriafly/Regret/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/Moriafly/Regret" alt="GitHub stars"><ExternalLinkIcon/></a>
 <a href="LICENSE"><img src="https://img.shields.io/github/license/Moriafly/Regret" alt="GitHub license"></a></p>
