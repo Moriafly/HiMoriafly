@@ -8,14 +8,14 @@ export const data = {
   "headers": [
     {
       "level": 2,
-      "title": "历史版本",
-      "slug": "历史版本",
+      "title": "历史稳定版本",
+      "slug": "历史稳定版本",
       "children": []
     },
     {
       "level": 2,
-      "title": "推荐的下载平台",
-      "slug": "推荐的下载平台",
+      "title": "推荐下载平台",
+      "slug": "推荐下载平台",
       "children": []
     },
     {
@@ -26,7 +26,7 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1645775854000,
+    "updatedTime": 1650980882000,
     "contributors": [
       {
         "name": "Moriafly",
@@ -35,6 +35,11 @@ export const data = {
       },
       {
         "name": "Moriafly",
+        "email": "moriafly@163.com",
+        "commits": 1
+      },
+      {
+        "name": "Wuuuu Forever",
         "email": "moriafly@163.com",
         "commits": 1
       }

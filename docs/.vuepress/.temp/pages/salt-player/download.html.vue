@@ -1,8 +1,8 @@
 <template><h1 id="下载" tabindex="-1"><a class="header-anchor" href="#下载" aria-hidden="true">#</a> 下载</h1>
 <p>你可以在以下渠道下载椒盐音乐，其他平台非开发者上传注意识别。</p>
-<h2 id="历史版本" tabindex="-1"><a class="header-anchor" href="#历史版本" aria-hidden="true">#</a> 历史版本</h2>
+<h2 id="历史稳定版本" tabindex="-1"><a class="header-anchor" href="#历史稳定版本" aria-hidden="true">#</a> 历史稳定版本</h2>
 <p><a href="https://foyou.lanzouf.com/iJh8e0324v9a" target="_blank" rel="noopener noreferrer">5.20.0-release-2022032401.apk<ExternalLinkIcon/></a></p>
-<h2 id="推荐的下载平台" tabindex="-1"><a class="header-anchor" href="#推荐的下载平台" aria-hidden="true">#</a> 推荐的下载平台</h2>
+<h2 id="推荐下载平台" tabindex="-1"><a class="header-anchor" href="#推荐下载平台" aria-hidden="true">#</a> 推荐下载平台</h2>
 <h4 id="酷安" tabindex="-1"><a class="header-anchor" href="#酷安" aria-hidden="true">#</a> 酷安</h4>
 <p><a href="https://www.coolapk.com/apk/284064" target="_blank" rel="noopener noreferrer">访问酷安-椒盐音乐<ExternalLinkIcon/></a></p>
 <h4 id="google-play" tabindex="-1"><a class="header-anchor" href="#google-play" aria-hidden="true">#</a> Google Play</h4>
