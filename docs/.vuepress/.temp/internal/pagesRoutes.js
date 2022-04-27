@@ -2,17 +2,17 @@ import { Vuepress } from '@vuepress/client/lib/components/Vuepress'
 
 const routeItems = [
   ["v-8daa1a0e","/",{"title":"首页"},["/index.html","/README.md"]],
+  ["v-d3699ec6","/cherry/",{"title":"Cherry 笔记"},["/cherry/index.html","/cherry/README.md"]],
+  ["v-d939f39a","/dream-diary/dev.html",{"title":"3-20 / 开发版本 1"},["/dream-diary/dev","/dream-diary/dev.md"]],
+  ["v-39d7c34f","/dream-diary/",{"title":"愿望日记"},["/dream-diary/index.html","/dream-diary/README.md"]],
+  ["v-890948a4","/max/Android.html",{"title":"Android"},["/max/Android","/max/Android.md"]],
+  ["v-d6307a7e","/max/formats.html",{"title":"音频格式"},["/max/formats","/max/formats.md"]],
+  ["v-7449d5c4","/max/",{"title":"Moriafly's Audio X"},["/max/index.html","/max/README.md"]],
   ["v-3c2025d8","/android-dev/compose.html",{"title":""},["/android-dev/compose","/android-dev/compose.md"]],
   ["v-d9c83be6","/android-dev/push-jitpack.html",{"title":""},["/android-dev/push-jitpack","/android-dev/push-jitpack.md"]],
   ["v-3444465e","/android-dev/",{"title":"Android Dev"},["/android-dev/index.html","/android-dev/README.md"]],
   ["v-2ac38ff2","/android-dev/SAF.html",{"title":"SAF"},["/android-dev/SAF","/android-dev/SAF.md"]],
   ["v-b405a220","/android-dev/tips.html",{"title":"Tips"},["/android-dev/tips","/android-dev/tips.md"]],
-  ["v-d939f39a","/dream-diary/dev.html",{"title":"3-20 / 开发版本 1"},["/dream-diary/dev","/dream-diary/dev.md"]],
-  ["v-39d7c34f","/dream-diary/",{"title":"愿望日记"},["/dream-diary/index.html","/dream-diary/README.md"]],
-  ["v-d3699ec6","/cherry/",{"title":"Cherry 笔记"},["/cherry/index.html","/cherry/README.md"]],
-  ["v-890948a4","/max/Android.html",{"title":"Android"},["/max/Android","/max/Android.md"]],
-  ["v-d6307a7e","/max/formats.html",{"title":"音频格式"},["/max/formats","/max/formats.md"]],
-  ["v-7449d5c4","/max/",{"title":"Moriafly's Audio X"},["/max/index.html","/max/README.md"]],
   ["v-95c63da8","/moriafly/coroutine.html",{"title":"Coroutine"},["/moriafly/coroutine","/moriafly/coroutine.md"]],
   ["v-d1e8cb62","/moriafly/dev.html",{"title":"Moriafly 发展计划"},["/moriafly/dev","/moriafly/dev.md"]],
   ["v-36d883b0","/moriafly/history.html",{"title":"历史"},["/moriafly/history","/moriafly/history.md"]],
@@ -26,9 +26,9 @@ const routeItems = [
   ["v-5e2cd640","/salt-player/privacy_policy.html",{"title":"椒盐音乐隐私协议"},["/salt-player/privacy_policy","/salt-player/privacy_policy.md"]],
   ["v-db709288","/salt-player/pro.html",{"title":"椒盐音乐 Pro"},["/salt-player/pro","/salt-player/pro.md"]],
   ["v-665df470","/salt-player/",{"title":"椒盐音乐 - 数十万用户选择的 Android 本地音乐播放器"},["/salt-player/index.html","/salt-player/README.md"]],
-  ["v-3706649a","/404.html",{"title":""},["/404"]],
   ["v-12c33a9e","/salt-player/song_info.html",{"title":"歌曲信息获取"},["/salt-player/song_info","/salt-player/song_info.md"]],
   ["v-0a036ef0","/salt-player/v7.html",{"title":"椒盐音乐 7.0"},["/salt-player/v7","/salt-player/v7.md"]],
+  ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]
 
 export const pagesRoutes = routeItems.reduce(

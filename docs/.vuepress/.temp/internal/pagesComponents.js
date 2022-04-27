@@ -3,6 +3,18 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/index.html.vue")),
+  // path: /cherry/
+  "v-d3699ec6": defineAsyncComponent(() => import(/* webpackChunkName: "v-d3699ec6" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/cherry/index.html.vue")),
+  // path: /dream-diary/dev.html
+  "v-d939f39a": defineAsyncComponent(() => import(/* webpackChunkName: "v-d939f39a" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/dream-diary/dev.html.vue")),
+  // path: /dream-diary/
+  "v-39d7c34f": defineAsyncComponent(() => import(/* webpackChunkName: "v-39d7c34f" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/dream-diary/index.html.vue")),
+  // path: /max/Android.html
+  "v-890948a4": defineAsyncComponent(() => import(/* webpackChunkName: "v-890948a4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/Android.html.vue")),
+  // path: /max/formats.html
+  "v-d6307a7e": defineAsyncComponent(() => import(/* webpackChunkName: "v-d6307a7e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/formats.html.vue")),
+  // path: /max/
+  "v-7449d5c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-7449d5c4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/index.html.vue")),
   // path: /android-dev/compose.html
   "v-3c2025d8": defineAsyncComponent(() => import(/* webpackChunkName: "v-3c2025d8" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/android-dev/compose.html.vue")),
   // path: /android-dev/push-jitpack.html
@@ -13,18 +25,6 @@ export const pagesComponents = {
   "v-2ac38ff2": defineAsyncComponent(() => import(/* webpackChunkName: "v-2ac38ff2" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/android-dev/SAF.html.vue")),
   // path: /android-dev/tips.html
   "v-b405a220": defineAsyncComponent(() => import(/* webpackChunkName: "v-b405a220" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/android-dev/tips.html.vue")),
-  // path: /dream-diary/dev.html
-  "v-d939f39a": defineAsyncComponent(() => import(/* webpackChunkName: "v-d939f39a" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/dream-diary/dev.html.vue")),
-  // path: /dream-diary/
-  "v-39d7c34f": defineAsyncComponent(() => import(/* webpackChunkName: "v-39d7c34f" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/dream-diary/index.html.vue")),
-  // path: /cherry/
-  "v-d3699ec6": defineAsyncComponent(() => import(/* webpackChunkName: "v-d3699ec6" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/cherry/index.html.vue")),
-  // path: /max/Android.html
-  "v-890948a4": defineAsyncComponent(() => import(/* webpackChunkName: "v-890948a4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/Android.html.vue")),
-  // path: /max/formats.html
-  "v-d6307a7e": defineAsyncComponent(() => import(/* webpackChunkName: "v-d6307a7e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/formats.html.vue")),
-  // path: /max/
-  "v-7449d5c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-7449d5c4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/index.html.vue")),
   // path: /moriafly/coroutine.html
   "v-95c63da8": defineAsyncComponent(() => import(/* webpackChunkName: "v-95c63da8" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/coroutine.html.vue")),
   // path: /moriafly/dev.html
@@ -51,10 +51,10 @@ export const pagesComponents = {
   "v-db709288": defineAsyncComponent(() => import(/* webpackChunkName: "v-db709288" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/pro.html.vue")),
   // path: /salt-player/
   "v-665df470": defineAsyncComponent(() => import(/* webpackChunkName: "v-665df470" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/index.html.vue")),
-  // path: /404.html
-  "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/404.html.vue")),
   // path: /salt-player/song_info.html
   "v-12c33a9e": defineAsyncComponent(() => import(/* webpackChunkName: "v-12c33a9e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/song_info.html.vue")),
   // path: /salt-player/v7.html
   "v-0a036ef0": defineAsyncComponent(() => import(/* webpackChunkName: "v-0a036ef0" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/v7.html.vue")),
+  // path: /404.html
+  "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/404.html.vue")),
 }

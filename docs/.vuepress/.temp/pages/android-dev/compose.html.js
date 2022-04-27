@@ -7,8 +7,14 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1650597258000,
+    "contributors": [
+      {
+        "name": "Wuuuu Forever",
+        "email": "moriafly@163.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "android-dev/compose.md"
 }
