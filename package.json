@@ -5,5 +5,8 @@
   },
   "devDependencies": {
     "vuepress": "^2.0.0-beta.41"
+  },
+  "dependencies": {
+    "vite-plugin-style-import": "^1.4.1"
   }
 }

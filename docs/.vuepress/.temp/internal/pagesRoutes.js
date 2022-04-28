@@ -18,17 +18,17 @@ const routeItems = [
   ["v-36d883b0","/moriafly/history.html",{"title":"历史"},["/moriafly/history","/moriafly/history.md"]],
   ["v-7174336b","/moriafly/",{"title":"作者介绍"},["/moriafly/index.html","/moriafly/README.md"]],
   ["v-54582965","/moriafly/update.html",{"title":"产品的更新"},["/moriafly/update","/moriafly/update.md"]],
+  ["v-65b5623e","/salt-player/download.html",{"title":"下载"},["/salt-player/download","/salt-player/download.md"]],
   ["v-c65a4870","/salt-player/help.html",{"title":"使用帮助"},["/salt-player/help","/salt-player/help.md"]],
   ["v-7c3fd216","/salt-player/lyrics.html",{"title":"歌词"},["/salt-player/lyrics","/salt-player/lyrics.md"]],
   ["v-53938a5f","/salt-player/OPEN.html",{"title":"开放文档"},["/salt-player/OPEN","/salt-player/OPEN.md"]],
   ["v-6f09a8ce","/salt-player/open_source.html",{"title":"开源部分"},["/salt-player/open_source","/salt-player/open_source.md"]],
   ["v-5e2cd640","/salt-player/privacy_policy.html",{"title":"椒盐音乐隐私协议"},["/salt-player/privacy_policy","/salt-player/privacy_policy.md"]],
   ["v-db709288","/salt-player/pro.html",{"title":"椒盐音乐 Pro"},["/salt-player/pro","/salt-player/pro.md"]],
+  ["v-665df470","/salt-player/",{"title":"椒盐音乐 - 数十万用户选择的 Android 本地音乐播放器"},["/salt-player/index.html","/salt-player/README.md"]],
   ["v-12c33a9e","/salt-player/song_info.html",{"title":"歌曲信息获取"},["/salt-player/song_info","/salt-player/song_info.md"]],
   ["v-0a036ef0","/salt-player/v7.html",{"title":"椒盐音乐 7.0"},["/salt-player/v7","/salt-player/v7.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
-  ["v-665df470","/salt-player/",{"title":"椒盐音乐 - 数十万用户选择的 Android 本地音乐播放器"},["/salt-player/index.html","/salt-player/README.md"]],
-  ["v-65b5623e","/salt-player/download.html",{"title":"下载"},["/salt-player/download","/salt-player/download.md"]],
 ]
 
 export const pagesRoutes = routeItems.reduce(
