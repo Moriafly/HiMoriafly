@@ -1,27 +1,16 @@
-import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
-import { defaultTheme } from '@vuepress/theme-default'
+import type { DefaultThemeOptions } from 'vuepress'
 
-export default defineUserConfig({
+export default defineUserConfig<DefaultThemeOptions>({
     // 站点配置
     base: '/HiMoriafly/',
     lang: 'en-US',
     title: 'Hi, Moriafly',
     description: '不要糖醋放椒盐',
 
-    bundler: viteBundler({
-        viteOptions: {
-            optimizeDeps: {
-              exclude: [
-                '@vueuse/core',
-              ],
-            },
-          },
-        vuePluginOptions: {},
-      }),
-    
     // 主题和它的配置
-    theme: defaultTheme({
+    theme: '@vuepress/theme-default',
+    themeConfig: {
         logo: '/images/ic_moriafly.png',
 
         navbar: [
@@ -99,7 +88,7 @@ export default defineUserConfig({
                 },
             ],
         },
-    }),
+    },
     // plugins: [
     //     ['@vuepress/search', {
     //       searchMaxSuggestions: 10

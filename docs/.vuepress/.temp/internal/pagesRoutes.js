@@ -1,4 +1,4 @@
-import { Vuepress } from '@vuepress/client'
+import { Vuepress } from '@vuepress/client/lib/components/Vuepress'
 
 const routeItems = [
   ["v-8daa1a0e","/",{"title":"首页"},["/index.html","/README.md"]],
@@ -7,17 +7,17 @@ const routeItems = [
   ["v-3444465e","/android-dev/",{"title":"Android Dev"},["/android-dev/index.html","/android-dev/README.md"]],
   ["v-2ac38ff2","/android-dev/SAF.html",{"title":"SAF"},["/android-dev/SAF","/android-dev/SAF.md"]],
   ["v-b405a220","/android-dev/tips.html",{"title":"Tips"},["/android-dev/tips","/android-dev/tips.md"]],
-  ["v-d3699ec6","/cherry/",{"title":"Cherry 笔记"},["/cherry/index.html","/cherry/README.md"]],
   ["v-d939f39a","/dream-diary/dev.html",{"title":"3-20 / 开发版本 1"},["/dream-diary/dev","/dream-diary/dev.md"]],
   ["v-39d7c34f","/dream-diary/",{"title":"愿望日记"},["/dream-diary/index.html","/dream-diary/README.md"]],
+  ["v-d3699ec6","/cherry/",{"title":"Cherry 笔记"},["/cherry/index.html","/cherry/README.md"]],
+  ["v-890948a4","/max/Android.html",{"title":"Android"},["/max/Android","/max/Android.md"]],
+  ["v-d6307a7e","/max/formats.html",{"title":"音频格式"},["/max/formats","/max/formats.md"]],
+  ["v-7449d5c4","/max/",{"title":"Moriafly's Audio X"},["/max/index.html","/max/README.md"]],
   ["v-95c63da8","/moriafly/coroutine.html",{"title":"Coroutine"},["/moriafly/coroutine","/moriafly/coroutine.md"]],
   ["v-d1e8cb62","/moriafly/dev.html",{"title":"Moriafly 发展计划"},["/moriafly/dev","/moriafly/dev.md"]],
   ["v-36d883b0","/moriafly/history.html",{"title":"历史"},["/moriafly/history","/moriafly/history.md"]],
   ["v-7174336b","/moriafly/",{"title":"作者介绍"},["/moriafly/index.html","/moriafly/README.md"]],
   ["v-54582965","/moriafly/update.html",{"title":"产品的更新"},["/moriafly/update","/moriafly/update.md"]],
-  ["v-890948a4","/max/Android.html",{"title":"Android"},["/max/Android","/max/Android.md"]],
-  ["v-d6307a7e","/max/formats.html",{"title":"音频格式"},["/max/formats","/max/formats.md"]],
-  ["v-7449d5c4","/max/",{"title":"Moriafly's Audio X"},["/max/index.html","/max/README.md"]],
   ["v-65b5623e","/salt-player/download.html",{"title":"下载"},["/salt-player/download","/salt-player/download.md"]],
   ["v-c65a4870","/salt-player/help.html",{"title":"使用帮助"},["/salt-player/help","/salt-player/help.md"]],
   ["v-7c3fd216","/salt-player/lyrics.html",{"title":"歌词"},["/salt-player/lyrics","/salt-player/lyrics.md"]],
@@ -49,8 +49,8 @@ export const pagesRoutes = routeItems.reduce(
   },
   [
     {
-      name: '404',
-      path: '/:catchAll(.*)',
+      name: "404",
+      path: "/:catchAll(.*)",
       component: Vuepress,
     }
   ]

@@ -16,7 +16,6 @@ import {
   callWithErrorHandling,
   cloneVNode,
   compatUtils,
-  compile,
   computed,
   createApp,
   createBaseVNode,
@@ -137,7 +136,7 @@ import {
   withMemo,
   withModifiers,
   withScopeId
-} from "./chunk-OMYMHUHV.js";
+} from "./chunk-J5QUGD5J.js";
 import {
   camelize,
   capitalize,
@@ -146,8 +145,15 @@ import {
   normalizeStyle,
   toDisplayString,
   toHandlerKey
-} from "./chunk-E2JX26XA.js";
-import "./chunk-FEFTYQ2P.js";
+} from "./chunk-SDTWZDHJ.js";
+import {
+  init_define_EXTERNAL_LINK_ICON_LOCALES,
+  init_define_MZ_ZOOM_OPTIONS
+} from "./chunk-JQISXBHW.js";
+
+// dep:vue
+init_define_EXTERNAL_LINK_ICON_LOCALES();
+init_define_MZ_ZOOM_OPTIONS();
 export {
   BaseTransition,
   Comment,
@@ -168,7 +174,6 @@ export {
   capitalize,
   cloneVNode,
   compatUtils,
-  compile,
   computed,
   createApp,
   createBlock,
