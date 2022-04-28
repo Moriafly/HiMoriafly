@@ -1,0 +1,1 @@
+const t={key:"v-890948a4",path:"/max/Android.html",title:"Android",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645867193e3,contributors:[{name:"Moriafly",email:"moriafly@163.com",commits:2}]},filePathRelative:"max/Android.md"};export{t as data};
