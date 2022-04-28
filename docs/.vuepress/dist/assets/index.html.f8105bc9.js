@@ -1,1 +1,0 @@
-const e={key:"v-3444465e",path:"/android-dev/",title:"Android Dev",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648002494e3,contributors:[{name:"Moriafly",email:"62319450+Moriafly@users.noreply.github.com",commits:1},{name:"Moriafly",email:"moriafly@163.com",commits:1}]},filePathRelative:"android-dev/README.md"};export{e as data};

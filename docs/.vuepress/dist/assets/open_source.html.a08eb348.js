@@ -1,1 +1,0 @@
-const e={key:"v-6f09a8ce",path:"/salt-player/open_source.html",title:"\u5F00\u6E90\u90E8\u5206",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645775854e3,contributors:[{name:"Moriafly",email:"moriafly@163.com",commits:3}]},filePathRelative:"salt-player/open_source.md"};export{e as data};
