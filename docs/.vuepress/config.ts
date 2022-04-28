@@ -10,8 +10,8 @@ export default defineUserConfig({
     description: '不要糖醋放椒盐',
 
     bundler:
-    // specify bundler via environment variable
-    viteBundler(),
+        // specify bundler via environment variable
+        viteBundler(),
 
     // 主题和它的配置
     theme: defaultTheme({
