@@ -3,6 +3,13 @@ import { webpackBundler } from '@vuepress/bundler-webpack'
 import { defineUserConfig } from '@vuepress/cli'
 import { defaultTheme } from '@vuepress/theme-default'
 
+// .vuepress/config.js
+module.exports = {
+    chainWebpack(config) {
+      config.externals([/^(vue|vue-router)$/])
+    }
+  }
+
 export default defineUserConfig({
     // 站点配置
     base: '/HiMoriafly/',
