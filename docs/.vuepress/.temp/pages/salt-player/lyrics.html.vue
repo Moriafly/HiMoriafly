@@ -33,18 +33,18 @@
 <p>椒盐音乐支持同时间戳翻译（3.6.0 开始支持网络歌词翻译，若有），如：</p>
 <div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>[00:10:15]我爱你
 [00:10:15]I love you
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><p>如上翻译在歌词界面显示为：</p>
+</code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><p>如上翻译在歌词界面显示为：</p>
 <div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>我爱你
 I love you
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><p>但是音乐标签默认可能是这样的：</p>
+</code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><p>但是音乐标签默认可能是这样的：</p>
 <div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>[00:10:15]我爱你 I love you
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div><p>请在音乐标签应用中，点击设置 - 下载翻译 - 歌词格式，修改成为你喜欢的。</p>
+</code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br></div></div><p>请在音乐标签应用中，点击设置 - 下载翻译 - 歌词格式，修改成为你喜欢的。</p>
 <h4 id="时间戳格式说明" tabindex="-1"><a class="header-anchor" href="#时间戳格式说明" aria-hidden="true">#</a> 时间戳格式说明</h4>
 <p>歌词时间戳只支持一至六位毫秒格式（3.6.0 版本前只支持二或三位），如以下类型都是支持的：</p>
 <div class="language-text ext-text line-numbers-mode"><pre v-pre class="language-text"><code>[00:28.55]雪花飘 青山遇绝壁
 [00:28.6]雪花飘 青山遇绝壁
 [00:28.54449]雪花飘 青山遇绝壁
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><p>注意时间戳的格式，最后的分隔是 “ . ” （点）而不是 “ : ” （冒号）。</p>
+</code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br></div></div><p>注意时间戳的格式，最后的分隔是 “ . ” （点）而不是 “ : ” （冒号）。</p>
 <h4 id="已配置-lrc-歌词为什么不显示" tabindex="-1"><a class="header-anchor" href="#已配置-lrc-歌词为什么不显示" aria-hidden="true">#</a> 已配置 lrc 歌词为什么不显示？</h4>
 <p>lrc 文件必须和歌曲文件同名且在同一个文件夹下。且注意，若你配置了内嵌歌词（MP3、FLAC 格式），且此歌词格式不符合需求（无时间戳标识），那么页面会显示暂无歌词，标识为 EMBEDDED（或 JAUDIOTAG 等）。</p>
 </template>

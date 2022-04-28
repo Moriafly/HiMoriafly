@@ -31,4 +31,3 @@
 - Google Play 版本由谷歌签名发布，与其他平台签名不兼容。
 - Google Play 版本不含椒盐音乐 Pro，且不支持内置更新。
 - Google Play 版本更新速度较慢。
-
