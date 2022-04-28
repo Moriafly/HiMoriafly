@@ -67,6 +67,8 @@ Undo/Redo for Android.
 [![GitHub stars](https://img.shields.io/github/stars/Moriafly/Regret)](https://github.com/Moriafly/Regret/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Moriafly/Regret)](LICENSE)
 
+更多精彩，正在开发~
+
 ---
 
 ##### 在哪儿找到我？

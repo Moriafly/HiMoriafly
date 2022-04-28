@@ -1,5 +1,0 @@
-<template><p>不要扼杀这个过程！
-另一个应该由Android应用程序管理的边缘情况是保存并恢复进程被终止时的状态。
-A有助于管理配置更改，但是当进程被终止时，也会被破坏。在本文中使用的示例中，如果用户在 UI 中输入两个值，然后将应用程序置于后台并在以后重新打开它，以防操作系统决定终止应用，则 UI 将不包含原始值。ViewModelViewModel
-有一种标准方法可以将数据保存在 中，可以使用 SavedStateHandle。使用它并不总是那么容易，可以创建一个委托来管理使用 a 读取初始值并在每次更改时保存值的 委托：ViewModelMutableStateSavedStateHandle</p>
-</template>

@@ -1,5 +1,0 @@
-<template><h1 id="android-dev" tabindex="-1"><a class="header-anchor" href="#android-dev" aria-hidden="true">#</a> Android Dev</h1>
-<h1 id="salt-player-musicservice" tabindex="-1"><a class="header-anchor" href="#salt-player-musicservice" aria-hidden="true">#</a> Salt Player MusicService</h1>
-<p>MainActivity</p>
-<p>onCreate()</p>
-</template>
