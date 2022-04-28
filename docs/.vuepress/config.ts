@@ -19,7 +19,8 @@ export default defineUserConfig({
 
     bundler:
         // specify bundler via environment variable
-        process.env.DOCS_BUNDLER === 'webpack' ? webpackBundler() : viteBundler(),
+        viteBundler(),
+        // process.env.DOCS_BUNDLER === 'webpack' ? webpackBundler() : viteBundler(),
 
     // 主题和它的配置
     theme: defaultTheme({
