@@ -1,4 +1,5 @@
 import { viteBundler } from '@vuepress/bundler-vite'
+import { webpackBundler } from '@vuepress/bundler-webpack'
 import { defineUserConfig } from '@vuepress/cli'
 import { defaultTheme } from '@vuepress/theme-default'
 
@@ -11,7 +12,7 @@ export default defineUserConfig({
 
     bundler:
         // specify bundler via environment variable
-        viteBundler(),
+        process.env.DOCS_BUNDLER === 'webpack' ? webpackBundler() : viteBundler(),
 
     // 主题和它的配置
     theme: defaultTheme({
