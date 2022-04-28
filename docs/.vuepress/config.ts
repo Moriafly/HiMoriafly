@@ -9,9 +9,10 @@ export default defineUserConfig({
     title: 'Hi, Moriafly',
     description: '不要糖醋放椒盐',
 
-    bundler:
-        // specify bundler via environment variable
-        viteBundler(),
+    bundler: viteBundler({
+        viteOptions: {},
+        vuePluginOptions: {},
+      }),
     
     // 主题和它的配置
     theme: defaultTheme({
