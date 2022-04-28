@@ -13,12 +13,12 @@ export const pagesComponents = {
   "v-2ac38ff2": defineAsyncComponent(() => import(/* webpackChunkName: "v-2ac38ff2" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/android-dev/SAF.html.vue")),
   // path: /android-dev/tips.html
   "v-b405a220": defineAsyncComponent(() => import(/* webpackChunkName: "v-b405a220" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/android-dev/tips.html.vue")),
+  // path: /cherry/
+  "v-d3699ec6": defineAsyncComponent(() => import(/* webpackChunkName: "v-d3699ec6" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/cherry/index.html.vue")),
   // path: /dream-diary/dev.html
   "v-d939f39a": defineAsyncComponent(() => import(/* webpackChunkName: "v-d939f39a" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/dream-diary/dev.html.vue")),
   // path: /dream-diary/
   "v-39d7c34f": defineAsyncComponent(() => import(/* webpackChunkName: "v-39d7c34f" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/dream-diary/index.html.vue")),
-  // path: /cherry/
-  "v-d3699ec6": defineAsyncComponent(() => import(/* webpackChunkName: "v-d3699ec6" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/cherry/index.html.vue")),
   // path: /max/Android.html
   "v-890948a4": defineAsyncComponent(() => import(/* webpackChunkName: "v-890948a4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/Android.html.vue")),
   // path: /max/formats.html

@@ -1,6 +1,6 @@
 {
   "name": "moriafly.github.io",
-  "version": "2.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "vue.js",
   "directories": {
@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/Moriafly/Moriafly.github.io#readme",
   "devDependencies": {
-    "@vuepress/plugin-search": "1.9.7",
-    "vuepress": "2.0.0-beta.35"
+    "@vuepress/bundler-vite": "2.0.0-beta.41",
+    "@vuepress/bundler-webpack": "2.0.0-beta.41",
+    "@vuepress/plugin-search": "^1.9.7",
+    "vuepress": "2.0.0-beta.41"
   }
 }
