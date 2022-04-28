@@ -17,12 +17,6 @@ export const pagesData = {
   "v-d939f39a": () => import(/* webpackChunkName: "v-d939f39a" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/dream-diary/dev.html.js").then(({ data }) => data),
   // path: /dream-diary/
   "v-39d7c34f": () => import(/* webpackChunkName: "v-39d7c34f" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/dream-diary/index.html.js").then(({ data }) => data),
-  // path: /max/Android.html
-  "v-890948a4": () => import(/* webpackChunkName: "v-890948a4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/Android.html.js").then(({ data }) => data),
-  // path: /max/formats.html
-  "v-d6307a7e": () => import(/* webpackChunkName: "v-d6307a7e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/formats.html.js").then(({ data }) => data),
-  // path: /max/
-  "v-7449d5c4": () => import(/* webpackChunkName: "v-7449d5c4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/index.html.js").then(({ data }) => data),
   // path: /moriafly/coroutine.html
   "v-95c63da8": () => import(/* webpackChunkName: "v-95c63da8" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/coroutine.html.js").then(({ data }) => data),
   // path: /moriafly/dev.html
@@ -33,6 +27,12 @@ export const pagesData = {
   "v-7174336b": () => import(/* webpackChunkName: "v-7174336b" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/index.html.js").then(({ data }) => data),
   // path: /moriafly/update.html
   "v-54582965": () => import(/* webpackChunkName: "v-54582965" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/moriafly/update.html.js").then(({ data }) => data),
+  // path: /max/Android.html
+  "v-890948a4": () => import(/* webpackChunkName: "v-890948a4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/Android.html.js").then(({ data }) => data),
+  // path: /max/formats.html
+  "v-d6307a7e": () => import(/* webpackChunkName: "v-d6307a7e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/formats.html.js").then(({ data }) => data),
+  // path: /max/
+  "v-7449d5c4": () => import(/* webpackChunkName: "v-7449d5c4" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/max/index.html.js").then(({ data }) => data),
   // path: /salt-player/download.html
   "v-65b5623e": () => import(/* webpackChunkName: "v-65b5623e" */"C:/Users/24568/Documents/GitHub/HiMoriafly/docs/.vuepress/.temp/pages/salt-player/download.html.js").then(({ data }) => data),
   // path: /salt-player/help.html

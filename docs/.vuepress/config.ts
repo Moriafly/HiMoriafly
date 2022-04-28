@@ -10,7 +10,13 @@ export default defineUserConfig({
     description: '不要糖醋放椒盐',
 
     bundler: viteBundler({
-        viteOptions: {},
+        viteOptions: {
+            optimizeDeps: {
+              exclude: [
+                '@vueuse/core',
+              ],
+            },
+          },
         vuePluginOptions: {},
       }),
     
