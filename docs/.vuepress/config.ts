@@ -60,7 +60,8 @@ export default defineUserConfig({
                         '/salt-player/pro.md',
                         '/salt-player/OPEN.md',
                         '/salt-player/open_source.md',
-                        '/salt-player/privacy_policy.md'
+                        '/salt-player/privacy_policy.md',
+                        '/salt-player/terms_of_user.md'
                     ],
                 },
             ],
@@ -79,7 +80,9 @@ export default defineUserConfig({
                     text: 'Android Dev',
                     children: [
                         '/android-dev/README.md',
-                        '/android-dev/tips.md'
+                        '/android-dev/tips.md',
+                        '/android-dev/MIUI-notification-bug.md',
+                        '/android-dev/flyme-lyrics-noti.md',
                     ],
                 }
             ],
