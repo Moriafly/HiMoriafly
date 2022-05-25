@@ -71,7 +71,8 @@ export default defineUserConfig({
                     children: [
                         '/max/README.md',
                         '/max/Android.md',
-                        '/max/formats.md'
+                        '/max/formats.md',
+                        '/max/android_audio.md'
                     ],
                 },
             ],
