@@ -1,0 +1,1 @@
+import{_ as a,o as d,c as r,a as e,d as o}from"./app.f7993e9d.js";const t={},n=e("h1",{id:"android",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#android","aria-hidden":"true"},"#"),o(" Android")],-1),c=[n];function s(i,_){return d(),r("div",null,c)}var l=a(t,[["render",s],["__file","Android.html.vue"]]);export{l as default};

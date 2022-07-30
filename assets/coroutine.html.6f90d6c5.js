@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as r,a as e,d as a}from"./app.f7993e9d.js";const c={},n=e("h1",{id:"coroutine",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#coroutine","aria-hidden":"true"},"#"),a(" Coroutine")],-1),s=[n];function i(_,d){return t(),r("div",null,s)}var h=o(c,[["render",i],["__file","coroutine.html.vue"]]);export{h as default};
