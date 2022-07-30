@@ -52,9 +52,9 @@ footer: Copyright © 2020-2022 Moriafly
 
 一款**操作进化**的**纯文本** + **Markdown** 的，支持**无限文件夹嵌套**的**本地** + **WebDAV** 的 **Android** 平台笔记软件。
 
-![椒盐音乐](./salt-note/src/screen_pad.jpg)
+![椒盐笔记](./salt-note/src/screen_pad.jpg)
 
-[点击查看有关椒盐音乐的详细介绍、帮助、服务等](/HiMoriafly/salt-note/)
+[点击查看有关椒盐笔记的详细介绍、帮助、服务等](/HiMoriafly/salt-note/)
 
 ---
 
