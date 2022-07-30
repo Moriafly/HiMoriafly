@@ -24,7 +24,11 @@ export default defineUserConfig({
             {
                 text: '椒盐音乐',
                 link: '/salt-player/',
-              },
+            },
+            {
+                text: '椒盐笔记',
+                link: '/salt-note/',
+            },
             {
               text: 'MAX 音频知识',
               link: '/max/',
@@ -62,6 +66,14 @@ export default defineUserConfig({
                         '/salt-player/open_source.md',
                         '/salt-player/privacy_policy.md',
                         '/salt-player/terms_of_user.md'
+                    ],
+                },
+            ],
+            '/salt-note': [
+                {
+                    text: '椒盐笔记',
+                    children: [
+                        '/salt-note/README.md',
                     ],
                 },
             ],

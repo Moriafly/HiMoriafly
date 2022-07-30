@@ -26,10 +26,6 @@ suspend fun call() = suspendCoroutine<T> {
 
 ```xml
 <item name="android:enforceNavigationBarContrast">false</item>
-
-<!-- delete -->
-<!-- <item name="android:windowTranslucentNavigation">true</item> -->
-<!-- <item name="android:navigationBarColor">@android:color/transparent</item> -->
 ```
 
 在给定 Activity 添加以下代码。
@@ -38,13 +34,21 @@ suspend fun call() = suspendCoroutine<T> {
 override fun onCreate(savedInstanceState: Bundle?) {
     WindowCompat.setDecorFitsSystemWindows(window, false)
     if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
-        window.decorView.windowInsetsController?.setSystemBarsAppearance(
-            WindowInsetsController.APPEARANCE_LIGHT_NAVIGATION_BARS,
-            WindowInsetsController.APPEARANCE_LIGHT_NAVIGATION_BARS
-        )
+        if (AppCompatDelegate.getDefaultNightMode() != AppCompatDelegate.MODE_NIGHT_YES) {
+            window.insetsController?.setSystemBarsAppearance(
+                WindowInsetsController.APPEARANCE_LIGHT_STATUS_BARS,
+                WindowInsetsController.APPEARANCE_LIGHT_STATUS_BARS
+            )
+        } else {
+            window.insetsController?.setSystemBarsAppearance(0, WindowInsetsController.APPEARANCE_LIGHT_STATUS_BARS)
+        }
     } else if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
         @Suppress("DEPRECATION")
-        window.decorView.systemUiVisibility = View.SYSTEM_UI_FLAG_LIGHT_NAVIGATION_BAR or window.decorView.systemUiVisibility
+        if (AppCompatDelegate.getDefaultNightMode() != AppCompatDelegate.MODE_NIGHT_YES) {
+            window.decorView.systemUiVisibility = View.SYSTEM_UI_FLAG_LIGHT_NAVIGATION_BAR or window.decorView.systemUiVisibility
+        } else {
+            window.decorView.systemUiVisibility = window.decorView.systemUiVisibility
+        }
     }
     window.navigationBarColor = android.graphics.Color.TRANSPARENT
 
@@ -66,3 +70,11 @@ CompositionLocalProvider(
     // 影响
 }
 ```
+
+## CoordinatorLayout + EditText
+
+EditText 所在的可滑动区域设定了滑动 AppBarLayout.ScrollingViewBehavior，在调整窗口大小后可能会有严重的性能问题。页面会多次 Measure 。
+
+<!-- ## 简单资源保护 -->
+
+<!-- vector xml 使用 dimen 变量指定 android:width 和 android:height 值，会使得 MT 管理器无法 -->

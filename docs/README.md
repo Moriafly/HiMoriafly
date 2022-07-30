@@ -10,8 +10,8 @@ heroImage: /images/ic_moriafly.png
 #     link: https://github.com/Moriafly
 #     type: secondary
 features:
-  - title: 旧事
-    details: 其实花是落在地上，我确实是随手捡的 ~ 🌸
+  - title: QQ 频道
+    details: 搜索“不要糖醋放椒盐”~
   - title: 体验
     details: 与 30 万用户一起体验优秀的产品
   - title: 啊哈
@@ -32,7 +32,7 @@ footer: Copyright © 2020-2022 Moriafly
 
 ### [**椒盐音乐 Salt Player**](/HiMoriafly/salt-player/)
 
-最新基于 [Jetpack Compose](https://developer.android.com/jetpack/compose) 构建的 Android™ 本地音乐播放器。
+最新基于 [Jetpack Compose](https://developer.android.com/jetpack/compose) 构建的 **Android™** 本地音乐播放器。
 
 [![Release Version](https://img.shields.io/github/v/release/Moriafly/SaltPlayerSource)](https://github.com/Moriafly/SaltPlayerSource/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/Moriafly/SaltPlayerSource)](https://github.com/Moriafly/SaltPlayerSource/stargazers)
@@ -45,6 +45,16 @@ footer: Copyright © 2020-2022 Moriafly
  —— 来自 Google Play 葡萄牙语用户 Herinaldo Sales
 
 [点击查看有关椒盐音乐的详细介绍、帮助、服务等](/HiMoriafly/salt-player/)
+
+---
+
+### [**椒盐笔记 Salt Note**](/HiMoriafly/salt-note/)
+
+一款**操作进化**的**纯文本** + **Markdown** 的，支持**无限文件夹嵌套**的**本地** + **WebDAV** 的 **Android** 平台笔记软件。
+
+![椒盐音乐](./salt-note/src/screen_pad.jpg)
+
+[点击查看有关椒盐音乐的详细介绍、帮助、服务等](/HiMoriafly/salt-note/)
 
 ---
 
