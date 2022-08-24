@@ -32,6 +32,9 @@ suspend fun call() = suspendCoroutine<T> {
 
 ```kt
 override fun onCreate(savedInstanceState: Bundle?) {
+    super.onCreate(savedInstanceState)
+
+    // 在 super.onCreate(savedInstanceState) 后调用，API 30 上有空指针崩溃 BUG，https://cloud.tencent.com/developer/ask/sof/568185
     WindowCompat.setDecorFitsSystemWindows(window, false)
     if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
         if (AppCompatDelegate.getDefaultNightMode() != AppCompatDelegate.MODE_NIGHT_YES) {
@@ -52,7 +55,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
     }
     window.navigationBarColor = android.graphics.Color.TRANSPARENT
 
-    super.onCreate(savedInstanceState)
+    
     // ...
 }
 ```
@@ -78,3 +81,7 @@ EditText 所在的可滑动区域设定了滑动 AppBarLayout.ScrollingViewBehav
 <!-- ## 简单资源保护 -->
 
 <!-- vector xml 使用 dimen 变量指定 android:width 和 android:height 值，会使得 MT 管理器无法 -->
+
+## 部分系统上 WebView
+
+Bold 需要字重达到 700

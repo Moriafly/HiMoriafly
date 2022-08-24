@@ -1,4 +1,6 @@
-# 使用帮助
+# 使用帮助 FQA
+
+[[toc]]
 
 ## 扫描歌曲不全？
 
@@ -10,19 +12,27 @@
 
 4. 特别说明一些流媒体应用（如某 Q、某云等），其 VIP 收费歌曲格式可能加密，此受到数字版权保护，椒盐音乐无法提供支持。
                             
-5. 若以上方法未解决你的问题（确保正确尝试），那么可能是你的系统媒体库未重新扫描文件，可以尝试重新启动手机（注意不是软重启），或者下载椒盐音乐推荐的媒体重新扫描应用：https://foyou.lanzoui.com/inR3iuarmaj ，此软件会对全文件进行扫描来刷新系统媒体库。。
+5. 若以上方法未解决你的问题（确保正确尝试），那么可能是你的系统媒体库未重新扫描文件，可以尝试重新启动手机（注意不是软重启），或者下载椒盐音乐推荐的媒体重新扫描应用：https://foyou.lanzoui.com/inR3iuarmaj ，此软件会对全文件进行扫描来刷新系统媒体库。
 
 ## 常见问题
 
+#### 椒盐音乐的音质会比其他软件更好或者更差吗？
+
+软件保持和 [foobar2000](https://www.foobar2000.org/) 开发者一致观点，即当排除软件自身压低音质或添加音效处理的情况下软件输出后，若两个后续被系统处理和硬件行为一致，那么不存在任何音质差别。
+
+> Q: Does foobar2000 sound better than other players?
+>
+> A: No. Most of “sound quality differences” people “hear” are placebo effect (at least with real music), as actual differences in produced sound data are below their noise floor (1 or 2 last bits in 16bit samples). foobar2000 has sound processing features such as software resampling or 24bit output on new high-end soundcards, but most of the other mainstream players are capable of doing the same by now.
+
+关于 Android 平台的特殊性详见： [Android 音频输出（以椒盐音乐说明）](../max/android_audio.md) 
+
 #### HQ、SQ 和 Hi-Res 标识是什么意思？
 
-HQ 表示高品质音乐，通常指比特率大于等于 320 kbps 的音频；SQ 表示超高品质音乐；Hi-Res 表示高解析度音频，通常指高于 CD 格式（采样率 44.1位 / 位深 16 bit）的音频。常见高解析音频格式：FLAC / DSD (DFF / DSF) / WAV / AIFF 。
+HQ 表示高品质音乐，通常指比特率大于等于 320 kbps 的音频；SQ 表示超高品质音乐；Hi-Res 表示高解析度音频，通常指高于 CD 格式（采样率 44.1位 / 位深 16 bit）的音频。常见可达到高解析的音频格式：FLAC / DSD (DFF / DSF) / WAV / AIFF 。
 
 #### 部分 WAV 歌曲信息（元数据）无法读取？
 
-变更：椒盐音乐 7.0.0-dev0423 开始支持 WAV 音频信息。
-
-WAV 不支持元数据，安卓媒体库似乎不支持读取 WAV 音频外挂 ID3 标签信息。
+部分 WAV 格式不支持元数据，安卓媒体库似乎不支持读取 WAV 音频外挂 ID3 标签信息。椒盐音乐 7.0.0-dev0423 开始支持 WAV 音频信息。
 
 #### 此设备不支持均衡器是什么意思？
 
@@ -41,3 +51,29 @@ WAV 不支持元数据，安卓媒体库似乎不支持读取 WAV 音频外挂 I
 #### 网络歌词、网络专辑信息不对？
 
 无法保证完全正确，可以在设置中禁用相关功能（网络匹配不准确请勿向开发者反馈）。
+
+#### 打开 QQ 音乐被暂停
+
+此为 QQ 的短视频小世界乱请求音频焦点（用户不使用的时候也请求），暂时有两个方法解决：1. 关闭 QQ 的短视频功能；2. 关闭椒盐音乐的音频焦点功能。
+
+## 系统适配相关
+
+#### 小米 MIUI
+
+- **小米妙播** 一般需要 MIUI 12 以上版本，提高椒盐音乐播放界面右上角按钮自动跳转，若无法开启等出现异常情况，请向 MIUI 反馈。
+
+#### 华为鸿蒙
+
+- **音乐控制中心** 华为通过白名单（一个记录了支持软件包名和版本号的 XML 文件）的控制，开发者无法理解华为这么做的意义，但是事实如此。
+
+#### vivo OriginOS / Funtouch OS
+
+- **Hi-Fi 模式** 部分 vivo 的设备支持高达 384 kHz 的音频输出，若支持列表不含椒盐音乐，你可以通过 adb 的方式添加对椒盐音乐的支持，输入 `settings put global game_support_hifi_list com.salt.music` 。
+
+#### OPPO ColorOS
+
+- **音乐通知** 一般会默认屏蔽椒盐音乐的通知权限，而连授权对话框也不会提供（需要和厂商合作），即便是 AOSP Android 13，媒体通知也是豁免的。那么只能用户到软件设置手动授予椒盐音乐通知权限。
+
+#### 魅族 Flyme
+
+- **OpenSL ES** 部分设备（多见于 16 系列）使用 OpenSL ES 输出可能会异常暂停。
