@@ -1,6 +1,6 @@
 # 椒盐笔记隐私政策
 
-更新时间：2022 年 8 月 23 日
+更新时间：2022 年 8 月 26 日
             
 欢迎使用椒盐笔记（以下称“本应用”）。
             
@@ -29,33 +29,19 @@
 
 ## 三、与第三方共享个人信息清单
             
-## 二、第三方服务
-            
 本应用使用了第三方服务，会涉及收集您的部分信息。
             
-第三方服务隐私协议：https://www.umeng.com/policy
+第三方服务隐私协议：https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56
             
 ## 三、本应用安卓权限的使用说明
             
 我们将使用以下权限：
             
-- android.permission.INTERNET 网络权限，用于获取在线歌词、封面、更新应用以及对应用一些内容做出更改。
-            
-- android.permission.FOREGROUND_SERVICE 启用前台服务，用于启动安卓音乐前台服务。
-            
+- android.permission.INTERNET 网络权限，用于云备份、更新应用、上传崩溃信息以及对应用一些内容做出更改。
+
 - android.permission.ACCESS_NETWORK_STATE 获取网络状态，用于减少对用户流量的消耗。
             
 - android.permission.ACCESS_WIFI_STATE WIFI 网络状态，用于减少对用户流量的消耗。
-            
-- android.permission.WRITE_EXTERNAL_STORAGE 写入外部存储，移除、保存音乐。
-            
-- android.permission.READ_EXTERNAL_STORAGE 读取外部存储，读取本地音乐已经封面、歌词。
-            
-- android.permission.READ_PHONE_STATE 读取手机状态，用于应用崩溃日志的上传。
-
-- android.permission.MEDIA_CONTENT_CONTROL 媒体控制，控制音乐。
-
-等其他权限。
 
 ## 四、本隐私协议的变更
             
