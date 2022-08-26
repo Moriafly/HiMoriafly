@@ -74,6 +74,7 @@ export default defineUserConfig({
                     text: '椒盐笔记',
                     children: [
                         '/salt-note/README.md',
+                        '/salt-note/terms_of_user.md',
                         '/salt-note/privacy_policy.md'
                     ],
                 },
