@@ -14,7 +14,7 @@
                             
 5. 若以上方法未解决你的问题（确保正确尝试），那么可能是你的系统媒体库未重新扫描文件，可以尝试重新启动手机（注意不是软重启），或者下载椒盐音乐推荐的媒体重新扫描应用：https://foyou.lanzoui.com/inR3iuarmaj ，此软件会对全文件进行扫描来刷新系统媒体库。
 
-## 常见问题
+## 音质问题
 
 #### 椒盐音乐的音质会比其他软件更好或者更差吗？
 
@@ -25,6 +25,34 @@
 > A: No. Most of “sound quality differences” people “hear” are placebo effect (at least with real music), as actual differences in produced sound data are below their noise floor (1 or 2 last bits in 16bit samples). foobar2000 has sound processing features such as software resampling or 24bit output on new high-end soundcards, but most of the other mainstream players are capable of doing the same by now.
 
 关于 Android 平台的特殊性详见： [Android 音频输出（以椒盐音乐说明）](../max/android_audio.md) 
+
+#### 我在某些时候感觉到椒盐音乐音质比一些软件更差？
+
+- 特点情况，在某些可以通过支持高分辨率的通道或者独占 USB 设备的软件上，若你属于喜欢在非专业音频的移动平台听音乐的发烧友，你会听到一些差别，但是它不是很大的。这属于系统和硬件层面，如使用海贝、安桥等音乐软件。当然若你的设备无特定的限制，那么你不会听到差别，而更多是心理因素（在某些论坛被多次提及的 Android SRC，则属于大多数手机的限制，而非 Android 的固有特性）。
+
+- 使用 OpenSL ES / AAudio 下会和一些仅使用 AudioTrack 的软件听感有差异，第一点：后者一般会通过系统的默认混音处理，这部分系统会应用一些音效链，如 MIUI 的音质音效（杜比、音质增强等），这些都属于音效范围，而与软件本身其实无太大关系，毕竟音乐软件最基本的就是负责解码。如一款解压软件，它不应该出现数据丢失的问题。第二点：在多数厂商下，OpenSL ES / AAudio 的音量会比 AudioTrack 小，这会让你感觉到音质问题，但这仅和响度相关，通常在音量更大的情况下，人们会听到更多的细节，这不具有对比性。
+
+#### 我应该追求无损音乐吗？
+
+说明补充来自：[https://thewelltemperedcomputer.com](https://thewelltemperedcomputer.com)
+
+当然你能找到音源是最好的，但 320 kbps 的 MP3 并没有想象的那么差。
+
+在音频论坛上，他们会以非常怀疑的态度告诉您，在盲听测试中，没有人能够听到原始 CD 质量和 MP3 之间的区别。
+在典型的发烧友论坛上，他们会告诉您存在巨大差异，MP3 是一种耻辱。听起来真的很可怕。
+现在发烧友和揭穿者有一个共同点，他们确实讨厌细微差别。
+
+将 CD 翻录为无损格式并将其转换为例如 64、128、256 和 320 kbps MP3。
+
+如果您没有听到 CD 质量和 64 kbps 之间的差异，请去看医生；
+如果您没有听到与 128 kbps 的区别，请购买更好的设备；
+如果您在 192 kbps 处没有听到差异，那么您并不孤单；
+在 256 kbps 时，您可能会难以区别，而在 320 kbps 时，您可能会更加难以区别。
+
+仍然在 320 kbps，您可以听到差异。这被称为**杀手样本**。
+通常这是用 Kraftwerk 之类的电子设备制作的音乐，即使在 320 kbps 时，您也可以听到诸如预回声之类的人工制品。而在椒盐音乐的部分测试，多数用户无法区分 320 kbps MP3 与 CD 的差别。
+
+## 常见问题
 
 #### HQ、SQ 和 Hi-Res 标识是什么意思？
 
