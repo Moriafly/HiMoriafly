@@ -1,5 +1,5 @@
 ---
-slug: open
+sidebar_position: 5
 ---
 
 # 开放文档

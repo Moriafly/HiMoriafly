@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # 使用帮助 FQA
 
 ## 扫描歌曲不全？

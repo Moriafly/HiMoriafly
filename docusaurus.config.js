@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'WORLDSCI',
+  title: 'HiMoriafly',
   tagline: 'Dinosaurs are cool',
   url: 'https://moriafly.xyz',
   baseUrl: '/HiMoriafly/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/ic_moriafly_ico.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -57,10 +57,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'WORLDSCI',
+        title: 'HiMoriafly',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/ic_moriafly_200.png',
         },
         items: [
           // {
@@ -69,9 +69,10 @@ const config = {
           //   position: 'left',
           //   label: '文档',
           // },
-          {to: '/docs/moriafly', label: 'Moriafly', position: 'left'},
-          {to: '/docs/salt-player/', label: '椒盐音乐', position: 'left'},
-          {to: '/docs/salt-note/', label: '椒盐笔记', position: 'left'},
+          // {to: '/docs/moriafly', label: 'Moriafly', position: 'left'},
+          { to: '/docs/salt-player/', label: '椒盐音乐', position: 'left' },
+          { to: '/docs/salt-note/', label: '椒盐笔记', position: 'left' },
+          { to: '/docs/max-audio/', label: 'MAX Audio', position: 'left' },
           // {to: '/about', label: 'about', position: 'right'},
           {
             href: 'https://github.com/facebook/docusaurus',
@@ -86,27 +87,22 @@ const config = {
           {
             title: '文档',
             items: [
-              {to: '/docs/moriafly', label: 'Moriafly'},
-              {to: '/docs/salt-player/', label: '椒盐音乐'},
-              {to: '/docs/salt-note/', label: '椒盐笔记'},
-              {to: '/docs/android-dev/', label: 'Android Dev'},
-              {to: '/docs/max/', label: "Moriafly's Audio X"},
+              { to: '/docs/salt-player/', label: '椒盐音乐' },
+              { to: '/docs/salt-note/', label: '椒盐笔记' },
+              { to: '/docs/android-dev/', label: 'Android Dev' },
+              { to: '/docs/max-audio/', label: "Moriafly's Audio X" },
             ],
           },
           {
-            title: 'Community',
+            title: '社区',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: '不要糖醋放椒盐 QQ 频道',
+                href: 'https://pd.qq.com/s/9ev310',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: '椒盐音乐 Telegram',
+                href: 'https://t.me/saltplayerupdate',
               },
             ],
           },
