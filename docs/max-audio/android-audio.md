@@ -7,15 +7,12 @@
 :::tip 参考
 - [https://source.android.com/devices/audio](https://source.android.com/devices/audio)
 - [https://thewelltemperedcomputer.com](https://thewelltemperedcomputer.com)
-- [为什么 Hi-Res 对消费者来说没意义？](https://zexwoo.blog/posts/knowledge/meaningless-hi-res/)
 :::
 
 ## 前言
 
 
 ## 采样率转换（SRC）
-
-采样率决定了**数字信号能无损失复原的声音的最高频率**。CD 44.1 kHz 的采样率，能无损失地复原频率高达 22.05 kHz 的声音。
 
 采样率转换是将具有某一采样率的离散样本流更改为具有另一采样率的流的过程。采样率转换器（即重采样器）是执行采样率转换的模块。对于重采样器，原始流称为源信号，而重新采样的流称为设备信号。
 
@@ -80,13 +77,3 @@ Android 系统支持多个音频流。你正在观看视频，但你也希望听
 ## Android 音频架构
 
 ![Android音频架构](./Android音频架构.png)
-
-## Android 端播放器有音质区别吗？
-
-有一些情况需要了解。
-
-Android 平台提供的媒体解码器和特定于此设备（一般由厂商或者芯片制造商提供）的媒体解码器。前者是就是软解，后者是硬解。对于音频来说，这两种没什么速度差异（不同于视频的大量计算），对于多数格式来说你不会感知有性能差异。
-
-### MediaPlayer
-
-使用 MediaPlayer 做为播放的音乐软件，和 AudioTrack 和 OpenSL ES 一样会根据音频策略决定音频的处理。如果是硬件解码，音频不会经过 Mixer 混合输出，而是由 COMPRESS_OFFLOAD 处理音频书籍，最后交于平台的 DSP 后端回放。声卡驱动如何工作会决定音频最终是重采样后输出还是原生采样率输出，因为无论是走 COMPRESS_OFFLOAD 还是 Direct 音频输出线程，都只是绕过了 Android 框架层，最终还是得跟硬件抽象层，也就是声卡驱动打交道。声卡驱动内部可能还会包含一个音频重采样，这个就几乎是不可能通过第三方播放器去绕过的。最终结果就是从 dumpsys media.audio_flinger 命令输出的日志来看，好像是原生采样率输出了，但是如果你用电脑声卡去转录声音，再通过软件去分析频谱，就会发现声音还是被重采样了。
