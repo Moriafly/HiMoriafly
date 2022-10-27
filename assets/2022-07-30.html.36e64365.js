@@ -1,1 +1,0 @@
-const t={key:"v-d8ec99b4",path:"/salt-note/2022-07-30.html",title:"2022-07-30 \u6539\u7248",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1659174949e3,contributors:[{name:"wshzard",email:"moriafly@163.com",commits:1}]},filePathRelative:"salt-note/2022-07-30.md"};export{t as data};
