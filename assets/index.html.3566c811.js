@@ -1,0 +1,1 @@
+const e={key:"v-39d7c34f",path:"/dream-diary/",title:"\u613F\u671B\u65E5\u8BB0",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646739186e3,contributors:[{name:"Moriafly",email:"62319450+Moriafly@users.noreply.github.com",commits:1}]},filePathRelative:"dream-diary/README.md"};export{e as data};

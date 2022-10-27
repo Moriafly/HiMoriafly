@@ -1,0 +1,1 @@
+const t={key:"v-36d883b0",path:"/moriafly/history.html",title:"\u5386\u53F2",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648991699e3,contributors:[{name:"Moriafly",email:"62319450+Moriafly@users.noreply.github.com",commits:2},{name:"Moriafly",email:"moriafly@163.com",commits:1}]},filePathRelative:"moriafly/history.md"};export{t as data};
