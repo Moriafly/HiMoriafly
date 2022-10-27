@@ -17,15 +17,15 @@
 > 
 > —— 来自 Google Play 葡萄牙语用户 Herinaldo Sales
 
-[点击查看有关椒盐音乐的详细介绍、帮助、服务等](/HiMoriafly/salt-player/)
+[点击查看有关椒盐音乐的详细介绍、帮助、服务等](/docs/salt-player/)
 
 ---
 
-### [**椒盐笔记 Salt Note**](/HiMoriafly/salt-note/)
+### [**椒盐笔记 Salt Note**](/docs/salt-note/)
 
 **椒盐笔记是一款纯文本 + Markdown 的笔记软件，也可以用于便签、日记、文稿撰写等。软件在追求稳定性和流畅性、满足用户不同使用需求的同时，也注重页面设计的简约与美观，致力于为用户创造便捷舒适的使用体验**
 
-[点击查看有关椒盐笔记的详细介绍、帮助、服务等](/HiMoriafly/salt-note/)
+[点击查看有关椒盐笔记的详细介绍、帮助、服务等](/docs/salt-note/)
 
 ---
 
