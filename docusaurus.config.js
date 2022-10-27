@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '椒盐音乐官方网站 HiMoriafly',
-  tagline: 'Dinosaurs are cool',
+  tagline: '椒盐音乐系列软件',
   url: 'https://moriafly.xyz',
   baseUrl: '/HiMoriafly/',
   onBrokenLinks: 'throw',
