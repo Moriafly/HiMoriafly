@@ -26,7 +26,7 @@ sidebar_position: 2
 >
 > A: No. Most of “sound quality differences” people “hear” are placebo effect (at least with real music), as actual differences in produced sound data are below their noise floor (1 or 2 last bits in 16bit samples). foobar2000 has sound processing features such as software resampling or 24bit output on new high-end soundcards, but most of the other mainstream players are capable of doing the same by now.
 
-关于 Android 平台的特殊性详见： [Android 音频输出（以椒盐音乐说明）](../max/android_audio.md) 
+关于 Android 平台的特殊性详见： [Android 音频输出（以椒盐音乐说明）](../max-audio/android-audio) 
 
 #### 我在某些时候感觉到椒盐音乐音质比一些软件更差？
 
