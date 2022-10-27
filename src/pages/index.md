@@ -37,7 +37,7 @@ Kotlin 开发的美观 Android 音乐软件。
 
 [![Release Version](https://img.shields.io/github/v/release/Moriafly/DsoMusic)](https://github.com/Moriafly/DsoMusic/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/Moriafly/DsoMusic)](https://github.com/Moriafly/DsoMusic/stargazers)
-[![GitHub license](https://img.shields.io/github/license/Moriafly/DsoMusic)](LICENSE)
+
 
 ### [**LyricViewX**](https://github.com/Moriafly/LyricViewX)
 
@@ -45,7 +45,7 @@ Android Lyrics View 视图。
 
 [![Release Version](https://img.shields.io/github/v/release/Moriafly/LyricViewX)](https://github.com/Moriafly/LyricViewX/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/Moriafly/LyricViewX)](https://github.com/Moriafly/LyricViewX/stargazers)
-[![GitHub license](https://img.shields.io/github/license/Moriafly/LyricViewX)](LICENSE)
+
 
 ### [**Regret**](https://github.com/Moriafly/Regret)
 
@@ -53,7 +53,7 @@ Undo/Redo for Android.
 
 [![Release Version](https://img.shields.io/github/v/release/Moriafly/Regret)](https://github.com/Moriafly/Regret/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/Moriafly/Regret)](https://github.com/Moriafly/Regret/stargazers)
-[![GitHub license](https://img.shields.io/github/license/Moriafly/Regret)](LICENSE)
+
 
 ---
 
