@@ -1,12 +1,10 @@
 # 音频格式
 
-::: warning 注意
+:::caution 注意
 转载请标明来源 Moriafly 。
 :::
 
 按照首字母排序。
-
-[[toc]]
 
 ## APE(.ape) / Monkey's Audio
 

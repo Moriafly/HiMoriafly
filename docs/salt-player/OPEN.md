@@ -1,3 +1,7 @@
+---
+slug: open
+---
+
 # 开放文档
 
 椒盐音乐提供部分外部修改椒盐音乐相关设置属性的功能。
@@ -82,7 +86,7 @@
 
 ---
 
-::: warning 注意
+:::caution 注意
 *1 此为收费项目，你需要购买【椒盐音乐 Pro】。
 
 *2 部分信息来源网络。
@@ -123,3 +127,4 @@ context.sendBroadcast(intent)
 ## 面向开发者等合作
 
 如需要相关合作，请于 SaltPlayerSource 提交 issue ，会与你取得联系。
+

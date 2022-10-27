@@ -1,37 +1,43 @@
 {
-  "name": "moriafly.github.io",
-  "version": "1.1.0",
-  "description": "",
-  "main": "vue.js",
-  "directories": {
-    "doc": "docs"
-  },
+  "name": "",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Moriafly/Moriafly.github.io.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Moriafly/Moriafly.github.io/issues"
-  },
-  "homepage": "https://github.com/Moriafly/Moriafly.github.io#readme",
-  "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-beta.41",
-    "@vuepress/bundler-webpack": "^2.0.0-beta.41",
-    "@vuepress/plugin-search": "^1.9.7",
-    "vue": "^3.2.33",
-    "vue-loader": "^17.0.0",
-    "vuepress": "^2.0.0-beta.41",
-    "webpack": "^5.72.0",
-    "webpack-cli": "^4.9.2"
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations",
+    "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@vue/cli": "^5.0.4"
+    "@docusaurus/core": "2.1.0",
+    "@docusaurus/preset-classic": "2.1.0",
+    "@mdx-js/react": "^1.6.22",
+    "clsx": "^1.2.1",
+    "prism-react-renderer": "^1.3.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@docusaurus/module-type-aliases": "2.1.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "engines": {
+    "node": ">=16.14"
   }
 }

@@ -1,17 +1,16 @@
 # 椒盐音乐开发者带你了解一些音频知识
 
-::: tip Moriafly
+:::tip Moriafly
 版权所有，未经允许不可转载
 :::
 
-::: tip 参考
+:::tip 参考
 - [https://source.android.com/devices/audio](https://source.android.com/devices/audio)
 - [https://thewelltemperedcomputer.com](https://thewelltemperedcomputer.com)
 - [为什么 Hi-Res 对消费者来说没意义？](https://zexwoo.blog/posts/knowledge/meaningless-hi-res/)
 :::
 
 ## 前言
-
 
 
 ## 采样率转换（SRC）
@@ -36,7 +35,7 @@ Android 系统支持多个音频流。你正在观看视频，但你也希望听
 
 采样率转换不应影响音质。但编写一个好的 SRC 并非易事。
 
-::: tip 原生采样率
+:::tip 原生采样率
 大多数手机具有 48 kHz 的固定原生采样率。这意味着必须将所有音频重新采样到此速率才能进行本地播放。请注意，这是手机的属性，而不是 Android 固有的限制。
 :::
 
