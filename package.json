@@ -23,15 +23,15 @@
   "homepage": "https://github.com/Moriafly/Moriafly.github.io#readme",
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-beta.41",
-    "@vuepress/bundler-webpack": "^2.0.0-beta.41",
-    "@vuepress/plugin-search": "^1.9.7",
-    "vue": "^3.2.33",
-    "vue-loader": "^17.0.0",
-    "vuepress": "^2.0.0-beta.41",
-    "webpack": "^5.72.0",
-    "webpack-cli": "^4.9.2"
+    "@vuepress/bundler-webpack": "2.0.0-beta.41",
+    "@vuepress/plugin-search": "1.9.7",
+    "vue": "3.2.33",
+    "vue-loader": "17.0.0",
+    "vuepress": "2.0.0-beta.41",
+    "webpack": "5.72.0",
+    "webpack-cli": "4.9.2"
   },
   "dependencies": {
-    "@vue/cli": "^5.0.4"
+    "@vue/cli": "5.0.4"
   }
 }
