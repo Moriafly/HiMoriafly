@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2535],{5641:l=>{l.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/HiMoriafly/blog/welcome"},{"title":"Long Blog Post","permalink":"/HiMoriafly/blog/long-blog-post"},{"title":"First Blog Post","permalink":"/HiMoriafly/blog/first-blog-post"}]}')}}]);
