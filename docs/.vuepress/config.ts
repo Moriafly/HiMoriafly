@@ -65,7 +65,8 @@ export default defineUserConfig({
                         '/salt-player/OPEN.md',
                         '/salt-player/open_source.md',
                         '/salt-player/privacy_policy.md',
-                        '/salt-player/terms_of_user.md'
+                        '/salt-player/terms_of_user.md',
+                        '/salt-player/hearusy_spectrum.md'
                     ],
                 },
             ],
