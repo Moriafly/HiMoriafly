@@ -29,7 +29,7 @@ sidebar_position: 8
 | SdCard 空间占用大小 | 排查崩溃问题，帮助 APP 提升稳定性 | 服务器处理 |
 | 内存空间占用大小 | 排查崩溃问题，帮助 APP 提升稳定性 | 服务器处理 |
 | 网络类型 | 排查崩溃问题，帮助 APP 提升稳定性 | 服务器处理 |
-| 应用当前正在运行的进程名和 PID | 判断当前进程的 ANR 状态，排查崩溃问题, 帮助APP提升稳定性 | 仅读取，不保存到本地，也不上传服务器 |
+| 应用当前正在运行的进程名和 PID | 判断当前进程的 ANR 状态，排查崩溃问题, 帮助APP 提升稳定性 | 仅读取，不保存到本地，也不上传服务器 |
 
 ## 三、与第三方共享个人信息清单
             
@@ -67,17 +67,19 @@ sidebar_position: 8
             
 如果您对本隐私政策有任何问题、建议或投诉，您可以通过邮箱 moriafly@163.com 和开发者团队取得联系，开发者团队将在收到邮件后尽快与您联系。
 
+---
+
 # Salt Player Privacy Policy
 
 Updated: November 1, 2022
             
-Welcome to Salt Player (hereinafter referred to as "this app").
+Welcome to Salt Player (hereinafter referred to as "this APP").
             
-this app is developed by Salt & Pepper Music Team. We hope that this Privacy Policy will give you a clear introduction to how this app handles your and your end users' personal information. Therefore, this app recommends that you read this Privacy Policy in its entirety to help you understand how to maintain your privacy. This page is used to inform users of the collection and use of personal information by this app.
+this APP is developed by Salt Player Team. We hope that this Privacy Policy will give you a clear introduction to how this APP handles your and your end users' personal information. Therefore, this APP recommends that you read this Privacy Policy in its entirety to help you understand how to maintain your privacy. This page is used to inform users of the collection and use of personal information by this APP.
             
 ## 1. Collection and use of information
             
-In order to improve the user experience, this app will request to obtain your personally identifiable information, including but not limited to mobile device information.
+In order to improve the user experience, this APP will request to obtain your personally identifiable information, including but not limited to mobile device information.
             
 ## 2. List of collected personal information
 
@@ -94,15 +96,15 @@ In order to improve the user experience, this app will request to obtain your pe
 | SdCard space usage | Troubleshoot crashes and help APP improve stability | Server processing |
 | Memory usage size | Troubleshoot crashes and help APP improve stability | Server processing |
 | Network Type | Troubleshoot crashes and help APP improve stability | Server processing |
-| The name and PID of the currently running process of the application | Determine the ANR status of the current process, troubleshoot the crash problem, and help the APP improve the stability | Only read, do not save to the local, and do not upload to the server |
+| The name and PID of the currently running process of the APP | Determine the ANR status of the current process, troubleshoot the crash problem, and help the APP improve the stability | Only read, do not save to the local, and do not upload to the server |
 
 ## 3. List of personal information shared with third parties
             
-this app uses third-party services, which will involve the collection of some of your information.
+this APP uses third-party services, which will involve the collection of some of your information.
             
 Third-party service privacy agreement: https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56
             
-## 4. Instructions for the use of Android permissions in this app
+## 4. Instructions for the use of Android permissions in this APP
             
 We will use the following permissions:
             
