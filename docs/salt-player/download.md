@@ -8,6 +8,8 @@ sidebar_position: 1
 
 ## 历史稳定版本
 
+[7.8.4-release-2022091401.apk](https://foyou.lanzoue.com/iP6dS0bsswrc)
+[7.1.1-release-2022081002.apk](https://foyou.lanzoue.com/ixCxX09aikkd)
 [5.20.0-release-2022032401.apk](https://foyou.lanzouf.com/iJh8e0324v9a)
 
 ## 推荐下载平台
