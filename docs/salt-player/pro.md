@@ -12,8 +12,8 @@ sidebar_position: 6
 
 ## 关于付费
 
-购买椒盐音乐 Pro 为 **RMB 8.00** 。暂不支持其他货币付款。
+购买椒盐音乐 Pro 为 **RMB 10.00** 。暂不支持其他货币付款。
 
-或者支付 RMB 6.00 + 应用商店 5 星好评（酷安或者 Google Play 商店）；或者支付 RMB 6.00 + Github 关注（关注作者 Moriafly 或者 SaltPlayerSource 仓库都可）。
+或者支付 RMB 8.00 + 应用商店 5 星好评（酷安或者 Google Play 商店）；或者支付 RMB 8.00 + Github 关注（关注作者 Moriafly 或者 SaltPlayerSource 仓库都可）。
 
 椒盐音乐 Pro 的价格随着版本更新会有变化。具体价格以软件版本内说明为标准。

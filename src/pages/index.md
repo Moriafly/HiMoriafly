@@ -1,9 +1,14 @@
+# Hi, Moriafly
+
+为什么叫 Moriafly ？，其实 Moria 是对中文暮雨（潇潇暮雨子规啼）两个字的随意“翻译”，fly 是随心加的。
+
+---
 
 ### 软件产品
 
 ### [**椒盐音乐 Salt Player**](/docs/salt-player/)
 
-最新基于 [Jetpack Compose](https://developer.android.com/jetpack/compose) 构建的 **Android™** 本地音乐播放器。
+**Android™** 平台音乐播放器。
 
 [![Release Version](https://img.shields.io/github/v/release/Moriafly/SaltPlayerSource)](https://github.com/Moriafly/SaltPlayerSource/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/Moriafly/SaltPlayerSource)](https://github.com/Moriafly/SaltPlayerSource/stargazers)
